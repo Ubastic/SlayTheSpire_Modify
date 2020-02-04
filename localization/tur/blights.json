@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Yıkımın Mızrağı",
+    "DESCRIPTION": [
+      "Düşmanlar #b",
+      "% daha fazla hasar verir."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Yıkımın Kalkanı",
+    "DESCRIPTION": [
+      "Düşmanlar #b",
+      "% daha fazla CP'ye sahiptir."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Zaman Labirenti",
+    "DESCRIPTION": [
+      "Her tur en fazla #b",
+      " tane kart oynayabilirsin.",
+      "Oynayabileceğim kart sayısı NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Kıvrılan Zihin",
+    "DESCRIPTION": [
+      "Turunun sonunda, #b",
+      " rastgele Durum kartını destenin üstüne ekle.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Lanetli",
+    "DESCRIPTION": [
+      "Her bir Boss yenişinde, #b",
+      " rastgele #yLanet edin.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Saçılan Beyin",
+    "DESCRIPTION": [
+      "Her tur #b",
+      " tane daha az kart çek.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Mimik İstilası",
+    "DESCRIPTION": [
+      "Gelecek perdelerdeki hazine odaları Elitler ile yer değiştirilmiştir. Elitler artık kalıntı düşürmeyecek."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Ağızlık",
+    "DESCRIPTION": [
+      "Maksimum CP artık artırılamaz. Tüm iyileşmeler yarılanır."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Acayip Kupa",
+    "DESCRIPTION": [
+      "Aldığın anda, #b",
+      " #rGurur elde et.",
+      "Gururun sapmış..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Bozuk Duryan",
+    "DESCRIPTION": [
+      "Maksimum CP'nin  #b%",
+      " kadarını kaybet."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Boşluk Özü",
+    "DESCRIPTION": [
+      "Her turun başında #b",
+      " tane daha az [E] kazan."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Azaplar",
+    "DESCRIPTION": [
+      "Düşmanlar dövüşe #b",
+      " #ySoyut ile başlarlar."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Antik Destek",
+    "DESCRIPTION": [
+      "Düşmanlar dövüşe #b",
+      " #yYapı, #b",
+      " #yKaplanmış #yZırh, ve #b",
+      " #yYenilenme"
+    ]
+  }
+}

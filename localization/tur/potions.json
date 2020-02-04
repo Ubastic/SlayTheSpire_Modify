@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Antika İksir",
+    "DESCRIPTIONS": [
+      " #b",
+      " #yDokunulmazlık kazan."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Blok İksiri",
+    "DESCRIPTIONS": [
+      "#b",
+      " #yBlok kazan."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Çeviklik İksiri",
+    "DESCRIPTIONS": [
+      "#b",
+      " #yBeceri kazan."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Eliksir",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "Elindeki tüm #yDurum  ve #yLanet kartlarını #yTüket.",
+      "",
+      "Bir etki göstermedi..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Enerji İksiri",
+    "DESCRIPTIONS": [
+      "#b",
+      " Enerji kazan."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Patlayıcı İksir.",
+    "DESCRIPTIONS": [
+      "TÜM düşmanlara #b",
+      " hasar ver."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Ateş İksiri.",
+    "DESCRIPTIONS": [
+      "#b",
+      " hasar ver."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Can İksiri.",
+    "DESCRIPTIONS": [
+      "#b",
+      " CP iyileş."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Zehir İksiri.",
+    "DESCRIPTIONS": [
+      "#b",
+      " #yZehirle."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "İksir Slotu.",
+    "DESCRIPTIONS": [
+      "Dövüş sırasında #gbonus kazan veya düşmanları #rengelle.",
+      "İksir Slotu"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Yenileme İksiri.",
+    "DESCRIPTIONS": [
+      "Her turun sonunda #b",
+      " #yCP iyileş #b",
+      " tur boyunca."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Kuvvet İksiri.",
+    "DESCRIPTIONS": [
+      "#b",
+      " #yKuvvet kazan."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Çabukluk iksiri.",
+    "DESCRIPTIONS": [
+      "",
+      "#b",
+      " kart çek."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Zayıflatma İksiri.",
+    "DESCRIPTIONS": [
+      "#b",
+      " #yZayıflat."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Meyse Suyu.",
+    "DESCRIPTIONS": [
+      " #b ",
+      " Max CP kazan."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Korku İksiri.",
+    "DESCRIPTIONS": [
+      "Rakibe #b",
+      " #yYaralanabilir etkisi koy."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Yetenek İksiri.",
+    "DESCRIPTIONS": [
+      "Eline rastgele bir Güç kartı ekler, bedeli #b0 olur.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Saldırı İksiri.",
+    "DESCRIPTIONS": [
+      "Eline rastgele bir Saldırı kartı ekler, bedeli #b0 olur.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "İksir iksiri.",
+    "DESCRIPTIONS": [
+      "Eline rastgele bir Güç kartı ekler, bedeli #b0 olur.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Kas  İksiri.",
+    "DESCRIPTIONS": [
+      "#b güç kazan.",
+      "Turunun sonunda,  #b güç kaybet.",
+      " #yGüç."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Hız  İksiri.",
+    "DESCRIPTIONS": [
+      "#b Çeviklik kazan.",
+      "Turunun sonunda,  #b Çeviklik kaybet.",
+      " #yÇeviklik."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Kavanozdaki Hayalet.",
+    "DESCRIPTIONS": [
+      "#b #ySoyutluk kazan.",
+      " #ySoyut."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Odak İksiri.",
+    "DESCRIPTIONS": [
+      "#b #yOdak kazan.",
+      " #yOdak."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Yılan Yağı.",
+    "DESCRIPTIONS": [
+      "#b kart çek",
+      " #yKafan karışır.",
+      "kart."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Sıvı Bronz.",
+    "DESCRIPTIONS": [
+      " #b #yDiken kazan.",
+      " #yDikenler."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Kumarcı'nın İçkisi.",
+    "DESCRIPTIONS": [
+      "İstediğin kadar kartı ıskarta et, bir o kadar kart çek."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Demir Esansı.",
+    "DESCRIPTIONS": [
+      "#b #yPlaka #yZırh kazan.",
+      " #yPlaka #yZırh."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Kan İksiri.",
+    "DESCRIPTIONS": [
+      "Maksimum CP'nin #b",
+      "% kadarına eşit can yenile."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Peri İksiri.",
+    "DESCRIPTIONS": [
+      "Öldüğünde,  #b10% kadar Maksimum CP'ni yenile ve kartı ıskarta et.",
+      "% of your Max HP instead and discard this potion."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Sis Bombası.",
+    "DESCRIPTIONS": [
+      "Bölüm Sonu Canavarı ile dövüşmediğin bir savaştan kaç. Ödül kazanma.",
+      "I'm Surrounded!"
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropik İçki.",
+    "DESCRIPTIONS": [
+      "Bütün iksirlerini kaybet ve yerine yeni iksirler kazan."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Heart of Iron",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "CunningPotion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yShivs to your hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion Of Capacity",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence Of Darkness",
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+      " #yDark for each orb slot."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Bottled Miracle",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilled Chaos",
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Liquid Memories",
+    "DESCRIPTIONS": [
+      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b ",
+      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Cultist Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Colorless Potion",
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Blessing of the Forge",
+    "DESCRIPTIONS": [
+      "Upgrade all cards in your hand."
+    ]
+  }
+}

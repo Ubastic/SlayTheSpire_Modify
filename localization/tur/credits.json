@@ -1,0 +1,396 @@
+{
+  "ANIMATION": {
+    "HEADER": "Karakter Animasyonları",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Geliştirme & Dizayn",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Reklam & Arka Plan İllüstürasyonu",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Ek Çeviriler",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Katalan Yerelleştirme",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Almanca Yerelleştirme",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13",
+      "Magnus Upmann",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Flemenkçe Yerelleştirme",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Esperanto Yerelleştirme",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "Fransızca Yerelleştirme",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Bartoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Hugo \"Tagadda\" Vurpillot",
+      "Corentin \"Tchus\" Monfort",
+      "Nicky \"Qazahar\" Dehout",
+      "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Fransızca Yerelleştirme",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Endonezce Yerelleştirme",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "İtalyanca Yerelleştirme",
+    "NAMES": [
+      "Jade \"HobNob\" Stevanovic",
+      "Mero Marco",
+      "Luigi Squarzina",
+      "Playtesting:",
+      "Mattylink Heropon"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "Japonca Yerelleştirme",
+    "NAMES": [
+      "Grezzz (Community Translation)",
+      "Kakehashi Games (Official Translation)"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Korece Yerelleştirme",
+    "NAMES": [
+      "Çeviri Menajeri:",
+      "Eteriny",
+      "Çeviri:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Steam Sayfası Çevirisi:",
+      "GyeRyak",
+      "GyeRyak"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Norveççe Yerelleştirme",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Polonyaca Yerelleştirme",
+    "NAMES": [
+      "Çeviri ve Koordinasyon:",
+      "Stanisław \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Ek Çeviriler:",
+      "Adrian \"xeros\" Rolka",
+      "Foreigner",
+      "Düzeltme:",
+      "Oskar \"volf3n\" Nowak",
+      "Öneriler ve Geri Bildirim:",
+      "Kasper \"Awokado\" Beræ",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafał \"SponTon83\" Szyszko",
+      "Rafał \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Brezilya Portekizcesi Yerelleştirme",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "Rusça Yerelleştirme",
+    "NAMES": [
+      "Çeviri ve Koordinasyon:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Çeviri ve Depolama:",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Öneri ve Geri Bildirim:",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "İspanyolca Yerelleştirme",
+    "NAMES": [
+      "Çeviri ve Koordinasyon:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Çeviri:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Grammar and Cleanup:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Sırbça Yerelleştirme",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "Tayca Yerelleştirme",
+    "NAMES": [
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Additional Translations:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Yazı:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Türkçe Yerelleştirme",
+    "NAMES": [
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu (AstralBody)"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Ukraynaca Yerelleştirme",
+    "NAMES": [
+      "Çeviri ve Koordinasyon:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Corrections and Translation:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi",
+      "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Çince (Basitleştirilmiş) Yerelleştirme",
+    "NAMES": [
+      "Sound of Mystery",
+      "IrisRaphael"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Çince (Geleneksel) Yerelleştirme",
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
+  },
+  "OPS": {
+    "HEADER": "İşlemler & Metrikler",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Konsol ve Mobil Bağlantı Noktaları",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Kart Portreleri & Olaylardaki Sanat",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Müzik & Sesler",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Özel Olarak Teşekkür Ederiz",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Oyunu Test Edenler",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jacob Morris",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson",
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...ve oynadığınızı için SİZE teşekkürler!",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Ses Sanatçısı",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Resmi Çeviri):",
+      "Japonca Yayıncılık Desteği:  Kakehashi Games",
+      "Japonca Yerelleştirme:  Rie Ihara"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Vietnamese Localization",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Translation:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordination and Linguistic Lead:",
+      "Hoang Son Do",
+      "Special Thanks:",
+      "Azy Tazer"
+    ]
+  }
+}

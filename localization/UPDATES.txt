@@ -1,0 +1,1349 @@
+Updates for Translators!
+
+12-20-2019
+cards.json
+	"Vengeance" (aka Simmering Fury)
+		"DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
+		->
+		"DESCRIPTION": "At the start of your next turn, enter Wrath and draw !M! cards."
+
+	"Expunger"
+		"EXTENDED_DESCRIPTION"
+      		"Deal !D! damage !M! time."
+
+----------------------------------
+
+11-1-2019
+cards.json
+	"Brilliance"
+		" NL (Gained !M! Mantra.)",
+		->
+		"",
+
+----------------------------------
+
+10-31-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
+
+----------------------------------
+
+10-30-2019
+cards.json
+	"LiveForever"
+		"DESCRIPTION": "Gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Gain !M! *Plated *Armor."
+
+	"Brilliance"
+		"DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
+
+		"EXTENDED_DESCRIPTION": [
+			" NL (Entered !M! Stance.)",
+			" NL (Entered !M! Stances.)"
+		]
+		->
+		"EXTENDED_DESCRIPTION": [
+			" NL (Gained !M! Mantra.)",
+			""
+		]
+
+	"Feed"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, raise your Max HP by !M!. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
+
+	"RitualDagger"
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, permanently increase this card's damage by !M!. NL Exhaust."
+
+	"HandOfGreed"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
+
+	"LessonLearned"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Exhaust."
+
+relics.json
+	"HolyWater"
+		"FLAVOR": "TODO.",
+		->
+		"FLAVOR": "Collected from a time before the Spire.",
+
+	"GoldenEye"
+		"FLAVOR": "TODO",
+		->
+		"FLAVOR": "See into the minds of those nearby, predicting their future moves.",
+
+	"Damaru"
+		"FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+		->
+		"FLAVOR": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+
+	"Yang"
+		"NAME": "Yang",
+		->
+		"NAME": "Duality",
+
+keywords.json
+	"FATAL"
+
+----------------------------------
+
+10-29-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+		->
+		"DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+
+		"EXTENDED_DESCRIPTION": [
+			""
+		]
+		->
+		"EXTENDED_DESCRIPTION": [
+			" NL (Entered !M! Stance.)",
+			" NL (Entered !M! Stances.)"
+		]
+
+----------------------------------
+
+10-28-2019
+cards.json
+	"BattleHymn" (Typo)
+		"DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+		->
+		"DESCRIPTION": "At the start of each turn, add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *Smite into your hand."
+
+----------------------------------
+
+10-24-2019
+relics.json
+	"Damaru"
+	"Tiny Chest"
+		"Upon pickup, gain #b",
+		" #yGold. You are #b10% more likely to find treasure in #y? rooms.",
+		"You are #b10% more likely to find treasure in #y? rooms."
+		->
+		"Every #b",
+		" #y? rooms is a #yTreasure room."
+		""
+
+	"Dodecahedron"
+		"NAME": "Runic Dodecahedron",
+		->
+		"NAME": "DEPRECATED Runic Dodecahedron",
+
+run_mods.json
+	"My True Form"
+		"DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+		->
+		"DESCRIPTION": "Start with a copy of Demon Form, Wraith Form, Echo Form, and Deva Form."
+	"Chimera"
+		"DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+		->
+		"DESCRIPTION": "Your starting deck is a fusion of all characters."
+
+----------------------------------
+
+10-23-2019
+potions.json
+	"Colorless Potion"
+	"BlessingOfTheForge"
+
+----------------------------------
+
+10-22-2019
+powers.json
+	"PathToVictoryPower"
+		"Whenever you play #yPath #yto #yVictory, loses #b",
+		->
+		"Whenever you play #yPressure #yPoints, loses #b",
+
+ui.json
+	"OptionsPanel"
+		"Bigger Text"
+
+----------------------------------
+
+10-21-2019
+cards.json
+	"Wireheading"
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry !M!."
+		->
+		"UPGRADE_DESCRIPTION": ""
+
+	"Reprogram"
+		"DESCRIPTION": "Scry !M!.",
+		->
+		"DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
+
+	"LiveForever"
+		"DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Gain !M! Plated Armor."
+
+	"Wish"
+		"DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+		->
+		"DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Exhaust.",
+
+	"PathToVictory"
+		"Path to Victory"
+		->
+		"Pressure Points"
+
+powers.json
+	"Fire Breathing"
+		"Whenever you draw a #yStatus or #yCurse card, deal ",
+		->
+		"Whenever you draw a #yStatus or #yCurse card, deal #b",
+
+----------------------------------
+
+10-18-2019
+achievements.json
+	"CharStat"
+		"%02d:%02d:%02d",
+		"%02d:%02d",
+		"#y%02dh #y%02dm #y%02ds",
+		"#y%02dm #y%02ds",
+		"%01d:%02d:%02d"
+
+monsters.json
+	"Champ"
+		"DIALOG"
+			"@THAT'S@ NL @MY@ @BELT!!@"
+
+cards.json
+	"Blasphemy"
+		"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+
+	"Beta"
+		"UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+		    ->
+		"UPGRADE_DESCRIPTION": ""
+
+	"Expunger"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+		->
+		"UPGRADE_DESCRIPTION": "",
+
+----------------------------------
+
+10-17-2019
+cards.json
+	"ConjureBlade"
+		"UPGRADE_DESCRIPTION": "Shuffle an *Expunger+ into your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
+
+	"Reckless Charge"
+		"DESCRIPTION": "Deal !D! damage. NL Shuffle a Dazed into your draw pile."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Shuffle a *Dazed into your draw pile."
+
+----------------------------------
+
+10-16-2019
+ui.json
+	"InputSettingsScreen"
+		"Peek"
+
+relics.json
+	"Toolbox"
+		"At the start of each combat, add a random Colorless card into your hand."
+		->
+		"At the start of each combat, choose #b1 of #b3 random Colorless cards and add the chosen card into your hand.
+
+----------------------------------
+
+10-15-2019
+NOTE: Just legibility + typo fixes today
+
+cards.json
+	"DevaForm"
+		"DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] and increase this gain by !M!.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] and increase this gain by !M!."
+		->
+		"DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] NL and increase this gain by !M!."
+
+potions.json
+	"LiquidMemories"
+		"Choose #b ",
+		->
+		"Choose #b",
+
+----------------------------------
+
+10-14-2019
+cards.json
+	"Halt"
+		"DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+		->
+		"DESCRIPTION": "Gain !B! Block. NL If you are in Wrath, gain !M! additional Block."
+
+keywords.json
+	"RITUAL"
+
+potions.json
+	"CultistPotion"
+	"LiquidMemories"
+	"DistilledChaos"
+
+powers.json
+	"Ritual"
+		"At the end of your turn, gain #b"
+
+----------------------------------
+
+10-11-2019
+cards.json
+	"Flick"
+		"NAME": "Flick",
+		->
+		"NAME": "DEPRECATED Flick",
+
+	"Vault"
+		"DESCRIPTION": "Skip the next enemy turn. NL End your turn. NL Exhaust."
+		->
+		"DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust."
+
+	"Beta"
+		"DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add an *Omega+ to the bottom of your draw pile. NL Exhaust."
+		->
+		"DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+
+	"PathToVictory"
+		"DESCRIPTION": " Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
+		->
+		"DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
+
+powers.json
+	"FlickPower"
+		"NAME": "Flick",
+		->
+		"NAME": "DEPRECATED Flick",
+
+----------------------------------
+
+10-09-2019
+cards.json
+	"Study"
+	"LikeWater"
+	"PathToVictory"
+		"DESCRIPTION": "Whenever you play *Path *to *Victory, this enemy loses !M! HP.",
+		->
+		"DESCRIPTION": " Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
+	"FlowState"
+		"NAME": "Flow State",
+		->
+		"NAME": "DEPRECATED Flow State",
+	"Discipline"
+		"NAME": "Discipline",
+		->
+		"NAME": "DEPRECATED Discipline",
+
+powers.json
+	"Study"
+	"LikeWaterPower"
+	"PathToVictoryPower"
+		"NAME": "Path to Victory",
+		->
+		"NAME": "Mark",
+	"DisciplinePower"
+		"NAME": "Discipline",
+		->
+		"NAME": "DEPRECATED Discipline",
+
+----------------------------------
+
+10-08-2019
+cards.json
+	"Flick"
+	"PathToVictory"
+		"DESCRIPTION": "Play the top card of your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Play the top card of your draw pile."
+		->
+		"DESCRIPTION": "Whenever you play *Path *to *Victory, this enemy loses !M! HP.",
+		"UPGRADE_DESCRIPTION": ""
+
+powers.json
+	"FlickPower"
+	"PathToVictoryPower"
+
+----------------------------------
+
+10-07-2019
+cards.json
+	"ForeignInfluence"
+		"UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks of any color to add into your hand. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL It costs 0 this turn. NL Exhaust."
+
+----------------------------------
+
+10-03-2019
+cards.json
+	"Discipline"
+	"Scrawl"
+		"DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn."
+		->
+		"DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+
+	"MasterReality"
+		"DESCRIPTION": "Whenever you play a card that Retains, deal !M! damage to a random enemy."
+		->
+		"DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
+
+powers.json
+	"DisciplinePower"
+	"MasterRealityPower"
+		"Whenever you play a card that #yRetains, deal #b",
+		" damage to a random enemy.",
+		->
+		"Whenever a card is created, it is #yUpgraded.",
+		"deprecated",
+
+	"WaveOfTheHandPower2"
+		"NAME": "Wave Of The Hand2",
+		->
+		"NAME": "DEPRECATED",
+
+		"Whenever you gain change #yStances, apply #b",
+		" #yWeak and #yVulnerable to ALL enemies."
+		->
+		"DEPRECATED",
+		"DEPRECATED"
+
+----------------------------------
+
+10-02-2019
+cards.json
+	"FlurryOfBlows"
+		"DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the discard pile to your Hand."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your Hand."
+
+	"Weave"
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you Scry and would discard this card, add it into your hand instead."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
+
+	"BattleHymn"
+		"UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
+		->
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+
+----------------------------------
+
+10-01-2019
+cards.json
+	"Blasphemy"
+		"DESCRIPTION": "Enter Divinity. NL Die next turn."
+		->
+		"DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust."
+
+	"Fasting"
+		"NAME": "Fasting A",
+		"DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity."
+		->
+		"NAME": "DEPRECATED",
+		"DESCRIPTION": "DEPRECATED"
+
+	"Fasting2"
+		"NAME": "Fasting B",
+		->
+		"NAME": "Fasting",
+
+	"WaveOfTheHand"
+		"NAME": "Wave of the Hand B",
+		->
+		"NAME": "Wave of the Hand",
+
+	"WaveOfTheHand2"
+		"NAME": "Wave of the Hand A",
+		"DESCRIPTION": "Whenever you change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+		->
+		"NAME": "DEPRECATED",
+		"DESCRIPTION": "DEPRECATED"
+
+	"Vault"
+		"DESCRIPTION": "Skip the enemies next turn. NL End your turn. NL Exhaust."
+		->
+		"DESCRIPTION": "Skip the next enemy turn. NL End your turn. NL Exhaust."
+
+	"Metaphysics"
+		"NAME": "Metaphysics",
+		"DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Shuffle a *Causality+ into your draw pile. NL Exhaust."
+		  ->
+		"NAME": "DEPRECATED",
+		"DESCRIPTION": "DEPRECATED",
+		"UPGRADE_DESCRIPTION": "DEPRECATED"
+
+	"DeceiveReality" (Formatting affects ENG only)
+		"DESCRIPTION": "Gain !B! Block. NL Add a *Safety into your hand.",
+		->
+		"DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
+
+powers.json
+	"WaveOfTheHandPower"
+		"NAME": "Wave Of The Hand",
+		->
+		"NAME": "Wave of the Hand",
+
+----------------------------------
+
+09-30-2019
+cards.json
+	"Fasting2"
+	"WaveOfTheHand2"
+	"Tantrum"
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+		->
+		"DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+	
+	"Fasting"
+		"NAME": "Fasting",
+		"DESCRIPTION": "Gain !M! Artifact."
+		->
+		"NAME": "Fasting A",
+		"DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity."
+
+	"WaveOfTheHand"
+		"NAME": "Wave of the Hand",
+		"DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+		->
+		"NAME": "Wave of the Hand B",
+		"DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
+
+	"Wish"
+		"DESCRIPTION": "Lose 25% of your current HP. NL Makes your dreams come true. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 25% of your current HP. NL Makes your wildest dreams come true. NL Exhaust."
+		->
+		"DESCRIPTION": "Gain !D! Strength, NL !M! Gold, or !B! Plated Armor each turn. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+
+	"MentalFortress"
+		"DESCRIPTION": "Whenever you switch Stances, gain !M! Block."
+		->
+		"DESCRIPTION": "Whenever you change Stances, gain !M! Block."
+
+	"Vault"
+		"DESCRIPTION": "Gain 1 Intangible. NL Next turn, deal !D! damage. NL End your turn. NL Exhaust."
+		->
+		"DESCRIPTION": "Skip the enemies next turn. NL End your turn. NL Exhaust."
+
+	"Storm of Steel"
+		"UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 Upgraded *Shiv into your hand for each card discarded."
+		->
+		"UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 *Shiv+ into your hand for each card discarded."
+
+	"Collect"
+		"DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
+		->
+		"DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X+1 turns. NL Exhaust."
+
+	"Pray"
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Insight into your draw pile."
+		->
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight+ into your draw pile."
+
+	"ReachHeaven"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an Upgraded *Through *Violence into your draw pile."
+		->
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an *Through *Violence+ into your draw pile."
+
+	"CarveReality"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add an Upgraded *Smite into your hand."
+		->
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a *Smite+ into your hand."
+
+	"DeceiveReality"
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add an Upgraded *Safety into your hand."
+		->
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add a *Safety+ into your hand."
+
+	"Metaphysics"
+		"UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Shuffle a *Causality+ into your draw pile. NL Exhaust."
+
+	"Evaluate"
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an Upgraded *Insight into your draw pile."
+		->
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
+
+	"CleanseEvil"
+		"DESCRIPTION": "Add X *Smites into your hand.",
+		"UPGRADE_DESCRIPTION": "Add X Upgraded *Smites into your hand."
+		->
+		"DESCRIPTION": "Add X *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
+
+	"Beta"
+		"UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Add an *Omega+ to the bottom of your draw pile. NL Exhaust."
+
+	"ConjureBlade"
+		"UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": "Shuffle an *Expunger+ into your draw pile. NL Exhaust."
+
+powers.json
+	"EnergyDownPower"
+	"WaveOfTheHandPower2"
+	"IntangiblePlayer"
+		"Reduce ALL damage taken from #yAttacks to #b1."
+		->
+		"Reduce ALL damage taken and HP loss to #b1."
+
+	"WaveOfTheHandPower"
+		" #yWeak and #yVulnerable to ALL enemies."
+		->
+		" #yWeak to ALL enemies."
+
+	"Collect"
+		"At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
+		->
+		"At the start of your next turn, put a #yMiracle+ into your hand.",
+
+		" turns, put an #yUpgraded #yMiracle into your hand."
+		->
+		" turns, put a #yMiracle+ into your hand."
+
+potions.json
+	"Cunning Potion"
+		" #yUpgraded #yShivs to your hand."
+		->
+		" #yShiv+ to your hand."
+
+09-27-2019
+cards.json
+	"ConjureBlade"
+	"Expunger"
+	"WaveOfTheHand"
+		"DESCRIPTION": "Calm: Apply !M! Weak. NL Wrath: Apply !M! Vulnerable."
+		->
+		"DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+
+	"Omega"
+		"DESCRIPTION": "At the start of your turn, deal !M! damage to ALL enemies."
+		->
+		"DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+
+powers.json
+	"WaveOfTheHandPower"
+	"IntangiblePlayer"
+		"Reduce ALL damage taken and HP loss to #b1."
+		->
+		"Reduce ALL damage taken from #yAttacks to #b1."
+
+	"OmegaPower"
+		"At the start of your turn, deal ",
+		->
+		"At the end of your turn, deal #b",
+
+----------------------------------
+
+09-26-2019
+cards.json
+	"Omniscience"
+		"DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+		->
+		"DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+	
+	"Pray"
+		"DESCRIPTION": "Gain !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
+		->
+		"DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Insight into your draw pile."
+
+	"Adaptation" (Aka Rushdown)
+		"DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
+		"UPGRADE_DESCRIPTION": "Deprecated."
+		->
+		"DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
+		"UPGRADE_DESCRIPTION": "DEPRECATED"
+
+	"Wish"
+		"DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+		->
+		"DESCRIPTION": "Lose 25% of your current HP. NL Makes your dreams come true. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 25% of your current HP. NL Makes your wildest dreams come true. NL Exhaust."
+	
+	"BecomeAlmighty"
+	"LiveForever"
+	"FameAndFortune"
+
+powers.json
+	"OmnisciencePower"
+		"Whenever you #yScry, #yScry #b",
+		" additional cards."
+		->
+		"DEPERCATED",
+		"DEPRECATED"
+
+relics.json
+	"GoldenEye"
+
+----------------------------------
+
+09-25-2019
+cards.json
+	"WheelKick"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+		->
+		"UPGRADE_DESCRIPTION": ""
+
+powers.json
+	"MasterRealityPower"
+		" damage to a random enemy",
+		->
+		" damage to a random enemy.",
+
+----------------------------------
+
+09-24-2019
+cards.json
+	"Indignation" (new card)
+	
+	"MasterReality"
+		"DESCRIPTION": "At the end of your turn, deal !M! damage to a random enemy for each Retained card in your hand."
+		->
+		"DESCRIPTION": "Whenever you play a card that Retains, deal !M! damage to a random enemy."
+	
+	"Tantrum"
+		"DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath this turn."
+		->
+		"DESCRIPTION": "Deal !D! damage to !M! random enemies. NL Enter Wrath. NL Shuffle this card into your draw pile."
+
+	"InnerPeace" (capitalization)
+		"DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise Enter Calm."
+		->
+		"DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
+
+characters.json
+	"Neow Reward"
+		"[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+		"#gObtain #g2 #grandom #gcolorless #gCards ]"
+		->
+		"[ #gChoose #ga #gcolorless #gCard #gto #gobtain ]",
+		"#gChoose #ga #grare #gcolorless #gCard #gto #gobtain ]"
+
+
+powers.json
+	"MasterRealityPower"
+		"At the end of your turn, deal #b",
+		" damage to a random enemy for each Retained card in your hand.",
+		"deprecated",
+		"deprecated"
+		->
+		"Whenever you play a card that #yRetains, deal #b",
+		" damage to a random enemy",
+		"deprecated",
+		"deprecated"
+
+----------------------------------
+
+09-23-2019
+monsters.json
+	"TimeEater"
+		"DIALOG"
+			"~Never....~ NL ~...liked..~ NL ~..you...~"
+
+cards.json
+	"Adaptation"
+		"NAME": "Adaptation",
+		"DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
+		->
+		"NAME": "Rushdown",
+		"DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
+	"WheelKick"
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+	"Omniscience"
+		"DESCRIPTION": "Scry your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Scry your draw pile."
+		->
+		"DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+		"UPGRADE_DESCRIPTION": ""
+
+powers.json
+	"Adaptation"
+		"NAME": "Adaptation",
+		->
+		"NAME": "Rushdown",
+
+		"Whenever you switch #yStances, draw #b",
+		->
+		"Whenever you enter #yWrath, draw #b",
+	"OmnisciencePower"
+
+potions.json
+	These two potion fields aren't used so their fields are now marked as DEPRECATED.
+		"Elixir"
+		"Health Potion"
+
+----------------------------------
+
+09-20-2019
+cards.json
+	"Adaptation"
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Stances, draw !M! card."
+		->
+		"UPGRADE_DESCRIPTION": "Deprecated."
+	"MasterReality"
+		"DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
+    	->
+    	"DESCRIPTION": "At the end of your turn, deal !M! damage to a random enemy for each Retained card in your hand."
+    "BattleHymn"
+		"DESCRIPTION": "The first card you draw each turn has its cost reduced by !M! for the turn."
+		->
+		"DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
+	"Brilliance"
+		"DESCRIPTION": "Heal !M! HP X times. NL Exhaust.",
+		->
+		"DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+	"Perseverance"
+		"DESCRIPTION": "Retain. NL Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M! this combat."
+		->
+		"DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
+	"SandsOfTime"
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1 this combat."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
+
+powers.json
+	"MasterRealityPower"
+		"At the start of your turn, add #b",
+		" #y",
+		" into your hand.",
+		"(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+		->
+		"At the end of your turn, deal #b",
+		" damage to a random enemy for each Retained card in your hand.",
+		"deprecated",
+		"deprecated"
+	"BattleHymn"
+		"The first card you draw each turn has its cost reduced by #b",
+		" that turn."
+		->
+		"At the start of your turn, add #b",
+		" #ySmites into your hand.",
+		" #ySmite into your hand."
+
+potions.json
+	"CunningPotion"
+		" #yShivs to your hand."
+		->
+		" #yUpgraded #yShivs to your hand."
+
+----------------------------------
+
+09-19-2019
+potions.json
+	"Ambrosia"
+	"BottledMiracle"
+	"CunningPotion"
+	"ElixirPotion"
+	"EssenceOfDarkness"
+	"HeartOfIron"
+	"PotionOfCapacity"
+
+cards.json
+	"Collect"
+		"DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+		->
+		"DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
+	"DevaForm"
+		"DESCRIPTION": "Gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Ethereal. NL At the start of turn, gain [W] and increase this gain by !M!.",
+		"UPGRADE_DESCRIPTION": "At the start of turn, gain [W] and increase this gain by !M!."
+	"MasterReality"
+		"DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
+		->
+		"DESCRIPTION": "Choose a card from your hand. NL At the start of turn, add a copy of it into your hand."
+	"WindmillStrike"
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M! this combat."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
+	"ThroughViolence"
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
+	"Brilliance"
+		"DESCRIPTION": "Transform your hand into *Miracles. NL Exhaust.",
+		->
+		"DESCRIPTION": "Heal !M! HP X times.",
+
+ui.json
+	"HandCardSelectScreen"
+		" Copy"
+
+powers.json
+	"DevaForm"
+	"Collect"
+		"At the start of your next turn, gain [W] [W] .",
+		->
+		"At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
+
+		" turns, gain [W] [W] ."
+		->
+		" turns, put an #yUpgraded #yMiracle into your hand."
+
+----------------------------------
+
+09-18-2019
+credits.json
+	"LOC_POL"
+		"Kasper \"Awokado\" Beræ",
+		->
+		"Kasper \"Awokado\" Berc",
+
+cards.json
+	"Wish"
+		"UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times and exhaust it. NL Exhaust."
+		->
+		"UPGRADE_DESCRIPTION": ""
+
+----------------------------------
+
+09-16-2019v2
+cards.json
+	"Nirvana"
+		"DESCRIPTION": "Whenever you play a card, Upgrade it for the rest of combat.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, Upgrade it for the rest of combat."
+		->
+		"DESCRIPTION": "Whenever you Scry, gain !M! Block.",
+		"UPGRADE_DESCRIPTION": ""
+	"Meditate"
+		"DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm.",
+		"UPGRADE_DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm."
+		->
+		"DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
+		"UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
+
+powers.json
+	"Nirvana"
+		"Whenever you play a card, #yUpgrade it."
+		->
+		"Whenever you Scry, gain #b",
+		" #yBlock."
+
+----------------------------------
+
+09-16-2019
+cards.json
+	"SashWhip"
+	"Judgement" (Key remains the same)
+		"NAME": "Judgement",
+		->
+		"NAME": "Judgment",
+	"PathToVictory"
+		"DESCRIPTION": "Draw a card and reduce its cost to 0 this turn. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": ""
+		->
+		"DESCRIPTION": "Play the top card of your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Play the top card of your draw pile."
+	"Wireheading"
+		-"NAME": "Wireheading",
+		->
+		"NAME": "Foresight",
+	"TalkToTheHand"
+		"DESCRIPTION": "Deal !D! damage. NL Whenever this enemy takes damage, gain !M! Block. NL Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you attack this enemy, gain !M! Block. NL Exhaust."
+	"Establishment"
+		"DESCRIPTION": "Whenever a card is Retained, lower its cost by !M!.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, lower its cost by !M!."
+		  ->
+		"DESCRIPTION": "Whenever a card is Retained, reduce its cost by !M! this combat.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, reduce its cost by !M! this combat."
+	"ForeignInfluence"
+		"DESCRIPTION": "Choose 1 of 3 Attacks to add to your hand. These cards can be of any color. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks to add to your hand. These cards can be of any color. Exhaust."
+		->
+		"DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks of any color to add into your hand. NL Exhaust."
+	"FlurryOfBlows"
+		"DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the Discard Pile to your Hand."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the discard pile to your Hand."
+	"Vault"
+		"DESCRIPTION": "Gain 1 Intangible and end your turn. NL At the start of your next turn, deal !D! damage. Exhaust."
+		->
+		"DESCRIPTION": "Gain 1 Intangible. NL Next turn, deal !D! damage. NL End your turn. NL Exhaust."
+	"WindmillStrike"
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M!."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M! this combat."
+	"Evaluate"
+		"DESCRIPTION": "Gain !B! Block. NL Shuffle 1 *Insight into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle 1 Upgraded *Insight into your draw pile."
+		->
+		"DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an Upgraded *Insight into your draw pile."
+	"Preseverance"
+		"DESCRIPTION": "Retain. NL Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M!."
+		->
+		"DESCRIPTION": "Retain. NL Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M! this combat."
+	"Scrawl"
+		"DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn."
+		->
+		"DESCRIPTION": "Draw !M! cards. NL You cannot play Skills this turn.",
+		"UPGRADE_DESCRIPTION": ""
+	"Unraveling"
+		"DESCRIPTION": "Play all of the cards in your hand from left to right. Targets are chosen randomly. NL Exhaust."
+		->
+		"DESCRIPTION": "Play all of your cards from left to right. Targets are chosen randomly. NL Exhaust."
+	"SandsOfTime"
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1."
+		->
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1 this combat."
+	"Weave"
+		"DESCRIPTION": "Deal !D! damage. NL Add this card to your hand when it would be discarded from your draw pile."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you Scry and would discard this card, add it into your hand instead."
+	"Tantrum"
+		"DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath for the remainder of the turn."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath this turn."
+	"Omega"
+		"DESCRIPTION": "At the start of your turn deal !M! damage to ALL enemies."
+		->
+		"DESCRIPTION": "At the start of your turn, deal !M! damage to ALL enemies."
+
+	"True Grit"
+		"DESCRIPTION": "Gain !B! Block. NL Exhaust a random card in your hand.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust a card in your hand."
+		->
+		"DESCRIPTION": "Gain !B! Block. NL Exhaust 1 card at random.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust 1 card."
+	"Endless Agony"
+		"DESCRIPTION": "Whenever you draw this card, add a copy of it into your hand. NL Deal !D! damage. NL Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you draw this card, add a copy of it into your hand. NL Exhaust."
+
+	MASS WORDING UPDATES:
+		"to your hand."
+		->
+		"into your hand."
+		(Affects CarveReality, DeceiveReality, CleanseEvil, MasterReality)
+
+		"previous card played"
+		->
+		"last card played this combat"
+		(Affects CrushJoints, Sanctity, FollowUp)
+
+powers.json
+	"Controlled"
+		"NAME": "Controlled",
+		->
+		"NAME": "Mental Fortress",
+	"WireheadingPower"
+		"NAME": "Wireheading",
+		->
+		"NAME": "Foresight",
+
+credits.json
+	"LOC_ITA"
+		"Playtesting:",
+		->
+		"Mattylink Heropon"
+	"LOC_VIE"
+
+----------------------------------
+
+09-12-2019
+potions.json
+	"SneckoOil"
+		    "Become #yConfused. Draw #b",
+			" cards.",
+			"card."
+			->
+			"Draw #b",
+			" cards. Randomize the cost of cards in your hand.",
+			""
+
+cards.json
+	"ClearTheMind"
+		RENAME: "Clear the Mind" -> "Tranquility"
+			"DESCRIPTION": "Enter Calm. NL Exhaust."
+			->
+			"DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
+	"Worship"
+		"UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Mantra."
+		->
+		"UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
+	"Judgement"
+		"NAME": "Judgement",
+		->
+		"NAME": "Judgment",
+
+powers.json
+	"Controlled"
+	   "NAME"
+		"Controlled",
+		->
+		"NAME": "Mental Fortress",
+	"WireheadingPower"
+		"At the start of your turn, #yScry #b",
+		"."
+
+----------------------------------
+
+09-11-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Transform your hand into *Miracles. NL Exhaust."
+	"Wireheading"
+		 "At the start of your turn, #yScry "
+	"CarveReality"
+		"DESCRIPTION": "Deal !D! damage. NL Add a *Smite to your hand.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add an Upgraded *Smite to your hand."
+	"DeceiveReality"
+		"DESCRIPTION": "Gain !B! Block. NL Add a *Safety to your hand.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add an Upgraded *Safety to your hand."
+	"InnerPeace"
+		"DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise Enter Calm."
+	"Sanctity"
+		"DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! card."
+		->
+		"DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! cards."
+	"Vigilance"
+		"DESCRIPTION": "Gain !B! Block. NL Enter Calm.",
+		"UPGRADE_DESCRIPTION": "Deprecated."
+	"Prostrate"
+		"DESCRIPTION": "Gain !M! Mantra. NL Gain !B! Block.",
+		"UPGRADE_DESCRIPTION": "DEPRECATED"
+	"FlurryOfBlows"
+		"DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the Discard Pile to your Hand."
+	"PathToVictory"
+		"UPGRADE_DESCRIPTION": "Draw a card and reduce its cost to 0 this turn."
+		->
+    	"UPGRADE_DESCRIPTION": ""
+    "Tantrum"
+		"DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot leave Wrath for the remainder of the turn."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath for the remainder of the turn."
+	"EmptyMind"
+	    "DESCRIPTION": "Exit your Stance. NL Draw !M! cards.",
+    	"UPGRADE_DESCRIPTION": "Exit your Stance. NL Draw !M! cards."
+    	->
+		"DESCRIPTION": "Draw !M! cards. NL Exit your Stance.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Exit your Stance."
+	"Judgement"
+		"EXTENDED_DESCRIPTION": [
+			"JUDGED"
+		]
+	"Vengeance" -> "Simmering Fury"
+		"Scry !M!. NL Enter Wrath at the start of your next turn."
+
+ui.json
+	"CharacterOption"
+		"This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+		->
+		"This character is unlocked by winning a Standard run and having the 3rd character unlocked."
+
+relics.json
+	"TungstenRod"
+		"Whenever you would lose HP, lose #b",
+		" less."
+	"CaptainsWheel"
+	"HornCleat"
+
+----------------------------------
+
+09-09-2019
+potions.json
+	"AttackPotion"
+	"SkillPotion"
+	"PowerPotion"
+	"DuplicationPotion"
+
+----------------------------------
+
+09-03-2019
+cards.json
+	The following have an added asterisk in front of card keywords. Example: Shiv -> *Shiv to utilize card previews.
+		"Accuracy"
+		"Blade Dance"
+		"Cloak and Dagger"
+		"Immolate"
+		"Infinite Blades"
+		"Power Through"
+		"Steam Power"
+		"Storm of Steel"
+		"Turbo"
+		"Wild Stirke"
+
+	The word upgraded was not consistently capitalized. Is now fixed for:
+		"Searing Blow"
+		"Storm of Steel"
+
+	"Fiend Fire"
+		NOTE: Wording improvement
+	"Static Discharge"
+		NOTE: Wording improvement
+
+	Reworked cards
+		"Reprogram"
+		"Fire Breathing"
+
+	New cards
+		~90 new cards or so (They should have English descriptions).
+		NOTE: DEPRECATED cards don't need to be translated.
+
+stances.json (New file!)
+
+keywords.json
+	SHIV, BURN, VOID, and WOUND keywords are deprecated as we're utilizing card previews.
+
+characters.json
+	Just a little bit of character name stuff here
+
+events.json
+	"SensoryStone"
+	"Spire Heart"
+
+achievements.json
+	Two new achievements (for now!)
+		"Amethyst"
+		"Amethyst+"
+	No changes to previous achievements
+
+potions.json
+	"DuplicationPotion"
+	"FairyPotion"
+	"StancePotion"
+
+ui.json
+	"AbstractPlayer"
+	"CardLibraryScreen"
+	"CharacterOption"
+	"CharacterSelectScreen"
+	"ClarityAction"
+	"LeaderboardFilters"
+	"MenuPanels"
+	"PotionViewScreen"
+	"ReprogramAction"
+	"RunHistoryScreen"
+	"SignatureMoveMessage"
+
+relics.json
+	The following relics have been reworked
+		"WristBlade"
+		"Calling Bell"
+		"HoveringKite"
+	11 or so new relics can be found at the bottom of the file as well
+
+----------------------------------
+
+07-16-2019
+ui.json
+	"MiscConsoleStrings"
+		"Display Area"
+		"A sign-in change has occurred. Please sign back in or exit to the title screen."
+		"Sign-in
+		"Exit"
+
+credits.json
+	"LOC_EPO"
+		"Spencer van der Meulen"
+
+----------------------------------
+
+07-10-2019
+ui.json
+	"MiscConsoleStrings"
+		"Press ",
+		" to Start"
+		"Switch Profile"
+
+----------------------------------
+
+07-03-2019
+potions.json
+	"Steroid Potion"
+	->
+	"Flex Potion"
+credits.json
+	"LOC_TUR"
+		"Berkan Çalıkoğlu"
+
+----------------------------------
+
+06-24-2019
+	credits.json
+		"PUBLISHING"
+			"Publishing Release:  Manager Evan Koepf",
+			->
+			"Publishing Release Manager:  Evan Koepf",
+
+----------------------------------
+
+06-20-2019
+	credits.json
+		"KAKEHASHI"
+			"NAMES"
+				"Kakehashi Games (Official Translation):",
+				"Japanese Publishing Support:  Kakehashi Games",
+				"Japanese Localization:  Rie Ihara"
+		"PUBLISHING"
+			"HEADER"
+				"Humble Bundle"
+			"NAMES"
+				"GM:  Alan Patmore",
+				"CBO:  Steven Kovensky",
+				"VP, Business Development:  Eduardo Aparicio",
+				"Publishing Manager:  John Polson",
+				"Publishing Release:  Manager Evan Koepf",
+				"Publishing Brand Manager:  Connor Bridgeman",
+				"Business Development Director, Publishing:  Mai Kawaguchi",
+				"Senior Business Developer:  Thomas Glenn",
+				"Senior Business Developer:  Bob Mills",
+				"Business Developer:  Trisha Tabor",
+				"Business Developer:  Angel Lyons-Labate",
+				"Store Director:  Paul Herron",
+				"Director of Finance:  Eric Samuel",
+				"VP of Product:  Nate Muller",
+				"Director of Marketing:  Jeremie Vella",
+				"Marketing Manager:  Whitney Stutes",
+				"Marketing Growth Manager:  Francois du Toit",
+				"Ninja Support:  Jimmy Chi",
+				"Ninja Support:  Kasey Brounkowski",
+				"Ninja Support:  Kayla Fyfe",
+				"Ninja Support:  Patrick Monahan"
+		"PORTING"
+			"HEADER"
+				"Console and Mobile Ports",
+			"NAMES"
+				"Sickhead Games, LLC"

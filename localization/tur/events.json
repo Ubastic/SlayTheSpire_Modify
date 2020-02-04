@@ -1,0 +1,933 @@
+{
+  "Accursed Blacksmith": {
+    "NAME": "Uğursuz Tornacı",
+    "DESCRIPTIONS": [
+      "Küçük bir kulübeye giriyorsun. İçeride, torna masasına benzer aletler görüyorsun. Aletler tozla kaplanmış, yine de ocaktan ateş yükseliyor. Tam bir şeylerin eşiğindesin gibi hissediyorsun...",
+      "Tornayı kullanmak istiyorsun ve... NL #y@TAAK@ #y@TAAAKK@ #y@TAK!@ NL ...silahını güçlendirdin!",
+      "İşe yarar bir şeyler bulabilir misin bakınıyorsun. Tentenin içinde, kutuların arasından bakıyorsun  ve kuytu köşelere bakarken, tozlarla kaplanmış bir #y~kalıntı~ buldun! ",
+      "Son dokunuşları yaparken, ocağın ateşi üzerine doğru sıçrıyor, kollarını #r@yakıyor@ #r@ve@ #r@yaralıyor@ ..",
+      "Kulübeden çıkarken içinden şu #r~kötü~ #r~hissi~ atamıyorsun. Belki de bir tür ruhu rahatsız etmişsindir?",
+      "Başka işe yarar bir şeyler var gibi görünmüyor. Geldiğin yoldan çıkıyorsun, ocağın içindeki alevler kulübenin duvarında #p~ürkütücü~ #p~gölgeler~ oluşturuyor..."
+    ],
+    "OPTIONS": [
+      "[Ateşte Döv] #gBir #gkart #ggeliştir.",
+      "[Araştır] #gBir #gKalıntı #gbul. #rLanetlen #r- #rAcı.",
+      "[Ayrıl]",
+      "Geliştirmek için bir kart seç",
+      "[Kilitli] Gerekenler: Geliştirilebilir Kart"
+    ]
+  },
+  "Addict": {
+    "NAME": "Bağımlı",
+    "DESCRIPTIONS": [
+      "Yüzlerini gizlemiş bir kaç kişiye görünmeden geçmeye çalışırken, çıplak, kızıl derili bir adam sana doğru yaklaşıyor. NL \"Hiç #yJ.A.X.'ın var mı, dostum? Çok kötü @titriyorum@! Lütfen... belki biraz #yBozukluk atarsın?\" NL Uçmuş görünüyor ama zararsız gibi.",
+      "\"Ah evet, ~evet!~ Al işte al, adil bir takas oldu!\"",
+      "Bağımlı ani bir öfke nöbeti geçirerek, sana bağırıyor ve küfrediyor. NL İstenmeyen dikkati üzerine çekmemek için bir an önce kaçıyorsun."
+    ],
+    "OPTIONS": [
+      "[Altın Ver] #y",
+      " #yAltın: #gBir #gKalıntı #gkazan.",
+      "[Kilitli] Gereken: ",
+      " Altın.",
+      "[Rob] #gKalıntı #gkazan. #rLanetlendin #r- #rUtan.",
+      "[Ayrıl]",
+      "",
+      ""
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Antika Yazıt",
+    "DESCRIPTIONS": [
+      "Şehrin boyutunu aklına oturtmaya çalışırken, #y~Antik~ yazılarla kaplı bir duvar görüyorsun. Şifreli sembollerin ve kabartmaların ne demek olduğunu çözmeye çalışırken, yazıt #b~parlamaya~ başlıyor. NL Aniden, mesaj netleşiyor...",
+      "Cevap zerafetti. NL Elbettle.",
+      "Gerçek her zaman basittir."
+    ],
+    "OPTIONS": [
+      "[Zerafet] #gDestenden #gbir #gkart #gsil.",
+      "[Basitlik] #gTüm #gVuruş #gve #gSavunmaları #gGeliştir.",
+      "Silmek için bir Kart Seç.",
+      "[Ayrıl]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Yaşlı Dilenci",
+    "DESCRIPTIONS": [
+      "Kürk içinde gizlenmiş yaşlı bir dilenci yanından geçerken eliyle sana doğru uzanıyor. \"Biraz bozukluğun var mı, evlat?\"",
+      "Dilenci sen geçerken yere doğru bakıyor. NL \"Asla bir fark yaratamayacaksın... Asla.\"",
+      "Dilenci pelerinini çıkartıyor ve #bRahip olduğu ortaya çıkıyor! NL @\"Nazik@ @bir@ @ruhun@ @var.@ @Arındırmam@ @senindir!\"@ diye bağırıyor. NL Minnettar mı sinirli mi emin değilsin.",
+      "@\"Umarım@ @bu@ @sefer@ @şansın@ @yaver@ @gider@,@ @arkadaşım!\"@ diye bağırıyor. NL Bununla ne demeye çalıştığını merak ederken, ileriye doğru ilerliyorsun."
+    ],
+    "OPTIONS": [
+      "[Altın Öner] #y",
+      " #yAltın: #gDestenden #gbir #gkart #gsil.",
+      "[Kilitli] Gereken: ",
+      " Altın.",
+      "[Devam Et]",
+      "[Ayrıl]",
+      "Silmek için bir Kart Seç."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Büyük Balık",
+    "DESCRIPTIONS": [
+      "Uzun bir koridordan geçerkene bir #ymuz, bir #ydonut ve bir #ykutu havada ~süzülüyor.~ Hayır... daha yakından incelediğinde tavandaki deliklerden iplerle bağlı olduklarını görüyorsun. Objelere yaklaştığında @fısıldamalar@ duyuyorsun. NL Ne yapacaksın?",
+      "#yMuzu yedin. Oldukça besleyici ve bir miktar #bsihirli, seni iyileştiriyor.",
+      "#yDonut'ı yedin. Tam 12den vurdun! Maksimum CP'n artıyor.",
+      "",
+      "Kutuyu aldın. İçinde #ykalıntı buluyorsun!",
+      " NL Her şeye rağmen, gerçekten bir donut iyi olabilirdi... NL ~Üzüntü~ ama daha çok #rpişmanlık hissettin."
+    ],
+    "OPTIONS": [
+      "[Muz] #g",
+      " #gCP #gİyileş.",
+      "[Donut] #gMaksimum #gCP #g+",
+      ".",
+      "[Kutu] #gKalıntı #gkazan. #rLanetlen #r- #rPişmanlık.",
+      "[Ayrıl]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Kamp Ateşi Ruhları",
+    "DESCRIPTIONS": [
+      "Yoluna devam ederken, büyük bir kamp ateşinin etrafında ~dans~ ~eden~ #pmor #pateşten #pruhlara rastlıyorsun. NL ",
+      "Ruhlar ateşe küçük kemikler ve parçalar atıyorlar, attıkları, her seferinde ~ışıl~ ~ışıl~ ~eriyor~. NL Ruhlara doğru yaklaştığında, bekleneceği gibi, her biri sana doğru dönüyor...",
+      "Ateşe bir kartını kurban ediyorsun. NL NL ",
+      "Ruhlar #pLanet kurban etmenden pek mutlu gibi görünmüyor... Kart siyah bir duman yayarak kayboluyor. Karşılığında... #p~bir~ #p~şeyler~ aldın.",
+      "Hiçbir şey olmadı... NL Ruhlar artık sana dikkat etmiyorlar gibi görünüyor. Hayal kırıklığı...",
+      "Ateş biraz daha parlaklaşmış gibi görünüyor. NL Ruhlar dans etmeye devam ediyor. Varlıkları biraz daha sıcak hissettiriyor... NL #g5 #bCP #biyileştin .",
+      "Alevler fışkırıyor, belirgin derecede güçleniyor! NL Ruhlar ateşin etrafında heyecanla dans ediyor, seni ~sıcaklık~ ~hissi~ ile dolduruyorlar NL Tamamen #biyileştin .",
+      "Alev @saçılıyor,@ neredeyse ayağını yerden kesecek, ateşin gücü @ikiye@ katlanıyor. NL Ruhlar önce etrafında heyecanla dans ediyor, sonrasında ise ~sanki~ ~ruhunu~ ~birleştiriyorlar,~ seni sıcaklık ve kuvvet ile dolduruyorlar. NL Maksimum CP'n #b10 arttı ve tamamen #biyileştin."
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Ayrıl]",
+      "[Kurban Et] Adağına göre bir kutsama al.",
+      "Kurban Edilecek bir Kart Seç."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Lanetli Kitap",
+    "DESCRIPTIONS": [
+      "Terkedilmiş bir tapınakta, devasa bir kitap buluyorsun, içini açtığında, #p@şifrelenmiş@ #p@yazılarla@ kaplı olduğunu görüyorsun. NL NL Yazıyı ayrıntılı bir şekilde inceleyip çevirmeye çalıştığında, yazı #b~dönmeye~ ve #b~kaymaya~ başlıyor, tanıdık olduğun dile benzemeye başlıyor.",
+      "Garip. Kitap #yNeow adında #yKadim birinden bahsediyor. NL NL Bu ilgini çekiyor ama genel bir #p~keyifsizlik~ hissediyorsun.",
+      "Kadim Diriliş, #yNeow, Sarmalın en dibine kadar sürgün edilmiş. NL NL Vücudun #r~ağrımaya~ başlarken daha fazlasını okumak sana çok çekici geliyor.",
+      "İntikam arayan #yNeow dışarıdan gelenleri kutsuyor, onları kendi amaçları için kullanıyor. NL NL Oldukça #r~zayıf~ #r~ve~ #ryorgun~ hissetmeye başlıyorsun...",
+      "#yNeow tarafından diriltilenler geçmiş benliklerinde yalnızca küçük parçalar hatırlar, sonsuzluğa kadar dövüşmeye lanetlenmişlerdir. NL NL Son sayfaya doğru yaklaşırken, #r@eski@ #r@yaraların@ #r@tekrardan@ #r@açılmaya@ #r@başlıyor!@",
+      "Kitabı bitirdikten sonra, beraberinde götürmeye karar veriyorsun. Elindeki kanıtla hatıralarını korursun belkide.",
+      "Çıkıyorsun, #p~kötü~ bir #p~enerjinin~ kitaptan #p~yayıldığını~ hissederek .",
+      "İnanılmaz bir zorlama ve azimle, kitabın hipnotize edici etkisine karşı koyuyorsun ve @BAM@ kapandı. NL  #b~Tükenmiş~ hissederek, arkanı dönüyorsun ve tapınaktan çıkıyorsun..."
+    ],
+    "OPTIONS": [
+      "[Oku]",
+      "[Devam Et] #r1 #rCP #rkaybet.",
+      "[Devam Et] #r2 #rCP #rkaybet.",
+      "[Devam Et] #r3 #rCP #rkaybet.",
+      "[Dur] #r3 #rCP #rkaybet.",
+      "[Al] #gKitabı #gAl. #r",
+      " #rCP #rkaybet.",
+      "[Ayrıl]"
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "Ölü Maceraperest",
+    "DESCRIPTIONS": [
+      "Maceraperesti ararken hazırlıksız yakalandın!",
+      "Ses çıkarmadan çıktın.",
+      "Yerde yatan #rölü #rmaceraperest ile karşılatın. NL #bPantolonu çalınmış! Ayrıca, ",
+      "zırhı ve yüzü #r@ateş@ #r@ile@ #r@yıkanmış.@ gibi ",
+      "görünüşe göre boynuzlu yaratık tarafından #r@oyulmuş@ #r@ve@ #r@ezilmiş.@ ",
+      "dev pençeler tarafından #r@bağırsakları@ #r@çıkartılmış@ #r@ve@ #r@dilimlenmiş.@ ",
+      "NL #yServeti #yhala #yortalıkta olmasına rağmen, burada neler olduğunu öğrenmek gibi bir niyetin yok...",
+      "Biraz #yaltın buldun! NL Aramaya devam et?",
+      "Hmm, bir şey bulamadın... NL Aramaya devam et?",
+      " #yKalıntı buldun! Aramaya devam et?",
+      "Görünüşe göre tek bir çizik almadan tüm sahip olduklarını buldun!"
+    ],
+    "OPTIONS": [
+      "[Ara] #gGanimet #gBul. #r",
+      "[Ayrıl]",
+      "[Dövüş]",
+      "[Devam Et] #gGanimet #gBul. #r",
+      "%: #rcanavar #rgeri #rdöner."
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "J.A.X. Satıcısı",
+    "DESCRIPTIONS": [
+      "Göz bantlı bir adam yüzünde şeytani gülümsemesiyle, uzun adımlarla sana doğru yaklaşıyor. NL \"Hey yabancı. Biraz #yJ.A.X. ilgini çeker mi? Seni herhangi bir antreman ya da kutsamadan çok daha güçlü yapacak. Ölmek isteyen o kahramanlardan biriysen ihtiyacın olacak. NL Ne dersin? #yJAXXLENMEK ister misin?\" NL ",
+      "~\"Mükemmel.\"~ NL Adam sokakların arasında kaybolmadan önce sana parıldayan bir sıvı içeren tehlikeli görünümlü şırıngayı veriyor.",
+      "\"Önemi yok, her zaman bir başkası bulunur...\" NL Adam salınarak yoluna devam ediyor.",
+      "~\"Garip.\"~ NL Gizemli gibi. Bir anda kaslarının gerilip  @kasıldığını hissediyorsun.@"
+    ],
+    "OPTIONS": [
+      "[J.A.X. dene] #gJAXXLEN.",
+      "[Test Deneği Ol] #gKartları #g2 #gdönüştür.",
+      "[Mutajenleri Yut] #gÖzel #gbir #gkalıntı #gkazan.",
+      "[Ayrıl]",
+      "[Kilitli] Gereksinimler: 2 veya daha fazla kart.",
+      "Dönüştürülecek Kartları Seç."
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Kopyalayıcı",
+    "DESCRIPTIONS": [
+      "Karşında çok eski bir <p>val</p>ık için dekore edilmiş bir sunak var.",
+      "Saygıyla diz çöküyorsun. Tapınaktaki aynadan korkunç bir yansıma görüyorsun ve üzerine çöküyor.",
+      "Seçimine güvenerek, tapınağı önemsemiyorsun."
+    ],
+    "OPTIONS": [
+      "[Dua Et] #gDestendeki #gbir #gkartı #gkopyalar.",
+      "[Ayrıl]",
+      "Kopyalamak için bir Kart seç."
+    ]
+  },
+  "Falling": {
+    "NAME": "Düşüş",
+    "DESCRIPTIONS": [
+      "Gözlerin havada gezen bir şekilden öbürüne gezerken, ayağın kayıyor. NL NL Düşmeye başlıyorsun.",
+      "Serbest düşüşteyken seçeneklerine bakıyorsun: NL En iyi tekniklerinden birini kullanarak güvenli bir şekilde iniş yap. NL Düşüşten sağ çıkmak için bir Güç hazırla. NL Duvara tutunmak için sertçe vur.",
+      "Mükemmel bir zarafetle iniş yapıyorsun.",
+      "Saf güçlerini kullanarak, zarar görmeden inişini tamamladın.",
+      "Duvara tutunuyorsun ve platformdan platforma birinden öbürüne atlayarak devam ediyorsun.",
+      "Bir tüy gibi yavaşça düşüyorsun, yere düşerken hiç çizik veya yara almıyorsun."
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[İn] #rKaybet ",
+      "[Kilitli] Gereken: Yetenek Kartı",
+      "[Hazırlan] #rKaybet ",
+      "[Kilitli] Gereken: Güç Kartı",
+      "[Vur] #rKaybet ",
+      "[Kilitli] Gereken: Saldırı Kartı",
+      "[Ayrıl]",
+      "[Yere İndin] "
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Unutulmuş Sunak",
+    "DESCRIPTIONS": [
+      "Önünde unutulmuş bir tanrıya ait bir sunak görüyorsun. NL Sunağın üzerinde koları dışarıya doğru açılmış şatafatlı bir kadın heykeli var. NL Seni çağırıyor, bir adak istiyor.",
+      "Putu nazikçe sunağa koyduğun anda odanın içinde #bsoğuk bir rüzgar esiyor. NL Heykeli kolları renksizleşmeye ve parçalanmaya başlıyor. NL NL #yAltın #yPut'un renkleri yok olmaya ve gözleri kanamaya başlıyor. NL Kanama asla kesilmiyor.",
+      "Sunağın önünde duruyorsun ve bileklerini kesiyorsun. NL #rKan kurban edilmek üzere kollarından dökülüyor, heykelin kolları uzanıyor ve gözlerini kapıyor. NL Her şey karanlığa bürünüyor. NL Kısa bir süre sonra uyanıyorsun yeni güçlere sahip gibi hissediyorsun.",
+      "Önündeki heykele vuruyorsun, odanın sana uyguladığı büyülü güçler ortadan kalkıyor. NL Acı bir feryat etrafında yankılanıyor ve #p~lanetli~ #p~büyünün~ kemiklerine işlediğini hissediyorsun."
+    ],
+    "OPTIONS": [
+      "[Adak: Altın Put] #gÖzel #gbir #gKalıntı #gelde #get. #rAltın #rPut'u #rkaybet.",
+      "[Kilitli] Gereken: Altın Put.",
+      "[Kurban Et] #g",
+      " #gMaksimum #gCP #gkazan. #r",
+      " #rCP #rkaybet.",
+      "[Kilitli] Gereken: İnsancıllık.",
+      "[Hakaret Et] #rLanetlen #r- #rÇürüme."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "Kutsal Çeşme",
+    "DESCRIPTIONS": [
+      "Yakındaki bir duvardan akan bitmeyen bir çeşmeyle karşılaştın, #b~parıldayan~ bir #b~su~ akıyor.",
+      "#b~Suyu~ içerken #pkoyu bir #pelin gevşediğini hissediyorsun.",
+      "Bu suyun doğasından emin olamadığından susuzluktan kavrulmuş şekilde, yoluna devam ediyorsun."
+    ],
+    "OPTIONS": [
+      "[İç] #gDestendeki #ptüm #pLanetleri #psil.",
+      "[Ayrıl]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Hayaletlerin Meclisi",
+    "DESCRIPTIONS": [
+      "Tırmanmana devam ederken, #p~kalın~ #p~siyah~ #p~duman~ çevrendeki duvar ve zeminden akarak çevreni sarıyor, üç maskeli forma girip sana bakıyorlar. NL NL ~\"Onun~ ~kuklalarından~ ~biri~ #y~Neow~ ~du~ ~galiba.\"~ NL #r@\"KATILIYORUM!@ #r@KIZ@ #r@HERZAMAN@ #r@EN@ #r@KOMİK@ #r@OYUNCAKLARI@ #r@YAPIYOR!\"@ NL NL Üçüncü sana bakarken devasa bir gülüş sana bakıyor. NL \"Diğerlerini boşver... tatmak istermiydin bizim #y~gücümüzü?\"~ ",
+      "",
+      "#y\"Excellent!\" NL Hayaletimsi varlık konuşurken, sen onun devasa ağzının daha geniş açıldığını görüyorsun. #p~kalın~ #p~siyah~ #p~duman~ akıp odayı kaplıyor. Ne görebiliyorsun ne de nefes alabiliyorsun... NL NL tam bilincini yitirirken, his duruyor. NL NL o şeyler neyse, artık gittiler. Devam ediyorsun, hissettiğin tek şey #bhastalık.",
+      "\"Ne kadar üzücü...\" NL ~\"Elbet~ ~sende~ ~bize~ ~katılacaksın~ ~yakında~ ~veya~ ~sonra.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Şekiller yok oluyor, arkalarında sadece can sıkıcı gülüşler bırakıyorlar.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Kabulet] #g5 #görüntü #gkazan. #rKaybet #r",
+      " #rMax #rCP.",
+      "[Reddet]",
+      "[Kabulet] #g3 #görüntü #gkazan. #rKaybet #r",
+      "",
+      "[Ayrıl]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Altın Put",
+    "DESCRIPTIONS": [
+      "Göze çarpmayan bir sütunun üzerinde sakince duran #yparıldayan #yaltın #yputu görüyorsun. Oldukça değerli görünüyor. NL NL Etrafta bir tuzak olmadığına eminsin.",
+      "Putu alıp kenara koyduğun anda, dev bir kaya parçası tavanı parçalayarak üzerine doğru geliyor. NL Yerin aşağıya doğru eğimli olduğunu farkediyorsun, kaya sana doğru yuvarlanıyor.",
+      "@KOOOOOOŞ!@ NL Kaya parçası hızla geçerken son anda kenara atlıyorsun. Ne yazık ki bir yerlerini burktun gibi hissediyorsun.",
+      "Elindeki her şeyle kaya parçasına atılıyorsun. Toz durulduğunda, güvenli bir şekilde çıkabilirsin.",
+      "@VICK!@ NL Kaya geçerken seni dümdüz ediyor, başka türlü çıkamazdın.",
+      "Eğer belli bir tuzak olabilseydi bu da o oldurdu. NL Sütunun üzerindeki objeye dokunmaktan kaçınıyorsun."
+    ],
+    "OPTIONS": [
+      "[Al] #gAltın #gPut'u #gElde #gEt. #rTuzağı #retkinleştir.",
+      "[Ayrıl]",
+      "[Kaç] #rLanetlen #r- #rSakatlanma.",
+      "[Ezil] #r",
+      " #rHasar #rAl.",
+      "[Saklan] #r",
+      " #rMaksimum #rCP #rkaybet."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Altın Tapınak",
+    "DESCRIPTIONS": [
+      "Karşında çok eski bir ruhun tapınağı yatıyor.",
+      "Elin tapınağa dokunduğunda tavandan #yaltın yağıyor, ~zenginlikle~ ~duş~ ~alıyorsun.~",
+      "Tapınağa her vurduğunda, #yaltın tekrar ve tekrar yağıyor! NL NL Altınları aldıkça, üzerine bir #rağırlık #rçöküyor.",
+      "Tapınağı görmezden geliyorsun."
+    ],
+    "OPTIONS": [
+      "[Dua Et] #g",
+      " #gAltın #gkazan.",
+      "[Hakaret Et] #g275 #gAltın #gkazan. #rLanetlen #r- #rPişmanlık.",
+      "[Ayrıl]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Kanat Heykeli",
+    "DESCRIPTIONS": [
+      "Taş ve kayalar arasında, kanata benzeyen büyük mavi karmakarışık bir heykel görüyorsun. NL Çatlaklarından #yaltın döküldüğünü görüyorsun. Belki içinde fazlası vardır...",
+      "Birisi zamanında sana dev bir kuşa tapan mezhepten söz etmişti. Dua etmek için diz çökerken, ~başının~ ... ~döndüğünü~ ~hissediyorsun~ . NL NL Bir süre sonra uyanıyorsun, ilginç bir şekilde ayaklarının çok çevik olduğunu farkediyorsun.",
+      "Bir işe yarayacağını sanmasan da, heykele vuruyorsun. NL Kısa süre sonra @parçalanıyor,@ ve bir #yaltın #yyığını açığa çıkıyor. Alabildiğin kadarını alıyorsun ve yoluna devam ediyorsun.",
+      "Heykel seni ~huzursuz~ hissettiriyor. Yoluna devam ediyorsun."
+    ],
+    "OPTIONS": [
+      "[Dua Et] #gDestenden #gbir #gKart #gsil. #rKaybet #r",
+      " #rCP.",
+      "[Parçala] #g",
+      " #g- #g",
+      " #gAltın kazan.",
+      "[Kilitli] Gereken: ",
+      " ya da daha fazla hasarı olan kart.",
+      "[Ayrıl]",
+      "[Devam Et]",
+      "Silmek için bir Kart Seç."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Bilen Kafatası",
+    "DESCRIPTIONS": [
+      "Kendini eski, dekore edilmiş özel bir odada buluyorsun. Odanın merkezinde, süslü bir sütun üzerinde büyük bir kafatası duruyor. Yaklaştığında, kafatası #g@alevler@ #g@içinde@ #g@kalıyor@ ve yüzünü sana dönüyor.",
+      "\"ARADIĞIN ŞEY NE? KARŞILIĞINDA NE VERECEKSİN?\" NL Son sözleriyle beraber, kapı @çat@ diye @kapanıyor.@",
+      " NL NL \"BAŞKA BİR ŞEY?\"",
+      " ",
+      "\"İÇ!\" NL İksir elde ediyorsun.",
+      "\"BELKİ BU YARDIMCI OLUR?\" NL Bir kart ediniyorsun.",
+      "\"SİZ ÖLÜMLÜLER ASLA DEĞİŞMEZSİNİZ. BU İŞ BİTTİ.\" NL Başından aşağıya #yAltınlar yağıyor!",
+      "\"ARKANDA, ÖLÜMLÜ.\" NL Kafatasının arkasına doğru bakıyorsun. Eminsin, orada bir kapı var."
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      " #rCP.",
+      "[Bilgi?] #gBoss'u #gaçığa #gçıkart. #rKaybet #r",
+      "[Başarı?] #gRenksiz #gKart #gelde #get. #rKaybet #r",
+      "[Beni Al?] #gBir #gİksir #gal. #rKaybet #r",
+      "[Zenginlik?] #gKazan #g",
+      " #gAltın. #rKaybet #r",
+      "[Nasıl Gidebilirim?] #rKaybet #r",
+      "[Ayrıl]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Lab",
+    "DESCRIPTIONS": [
+      "Raflarda test tüpleri, pişiriciler, şişeler, maşalar, sıkıştıran kelepçeler, karıştırma aletler, koruma gözlükleri, pipetler, silindirler, mercekler ve hatta nadir bulunan spiral tüplerin olduğu bir odada buluyorsun kendini. NL NL Tüm bu aletlerin isimlerini nereden biliyorsun? Önemi yok, etrafına bakıyorsun."
+    ],
+    "OPTIONS": [
+      "[Ara] #gBirkaç #gİksir #gbul!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "Yıllllannnn",
+    "DESCRIPTIONS": [
+      "Odanın içine doğru giderken yerde büyük bir deliğin olduğunu görüyorsun. Deliğe yaklaştığında, kocaman bir yılan beliriyor. NL NL ~\"Ho~ ~hooo!~ ~Merhaba~ ~merhaba!~ ~burada~ ~ne~ ~varmış?~ Merhaba maceraperest, basit bir soru soracağım. NL En tatmin edici hayat her şeyi #y~satın~ #y~alabildiğindir!~ NL Katılıyor musun?\"",
+      "~\"Eveeeeeeeeeeeeetttttt!~ NL ~Bunaaaa~ ~kesssssinlikle~ ~değecek.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Yılan sana çok büyük bir hayal kırıklığıyla bakıyor.",
+      "Yılan kafasını içine gömüyor ve #yaltın çıkartıyor! NL İnanılmaz ve aynı zamanda korkunç. NL Tüm #yaltını topluyorsun, yılana teşekkür ediyorsun ve yoluna devam ediyorsun."
+    ],
+    "OPTIONS": [
+      "[Kabul Et] #g",
+      " #gAltın #gkazan. #rLanetlen #r- #rŞüphe.",
+      "[Kabul Etme]",
+      "[Devam Et]",
+      "[Ayrıl]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Yaşayan Duvar",
+    "DESCRIPTIONS": [
+      "Çıkmaz bir yola ulaştığında arkanı dönüyorsun, duvarlar birleşmeye başlıyor, seni tuzağa düşürüyor! NL NL Duvarlardan üç tane yüz canlanıyor ve konuşmaya başlıyorlar. NL #b\"Bildiklerini #bunut #bve #bbırak #bgitsin.\" NL #p\"Biraz #pdeğişime #pihtiyacım #pvar.\" NL #y\"Beni #ygeçmek #yistiyorsan #ygelişmen #ygerek.\"",
+      "Tatmin olan duvarlar, yeniden eski yerlerine dönüyorlar."
+    ],
+    "OPTIONS": [
+      "[Unut] #gDestendeki #gbir #gkartı #gsil.",
+      "[Değiş] #gDestendeki #gbir #gkartı  #gdönüştür.",
+      "[Geliş] #gDestendeki #gbir #gkartı #ggeliştir.",
+      "Silmek için bir Kart Seç.",
+      "Dönüştürmek için bir Kart Seç.",
+      "Geliştirmek için bir Kart Seç.",
+      "[Ayrıl]",
+      "[Kilitli] Gereken: Geliştirilebilir Kart"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Maskeli Haydutlar",
+    "DESCRIPTIONS": [
+      "Hehehe.. #yaltın için teşekkürler! NL Oh, #yaltına bayılırım. Bu çok iyi. NL #y~parlak~ #y~parlak~ paralarr!",
+      "Hey #bAyı, hey! NL Bu adam bize tüm #yaltınını verdi! Ne aptal, değil mi? NL Al şunu, sadece güzelce sormam gerekti. Kim bilebilirdi ki?! NL Ben kesinlikle bilmiyordum! Ne mankafa ama!",
+      "Çete, bu mükemmel olay için toplanıp birlikte gülelim! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Oh? Hala burada mısın? NL Bir şeylere kulak misafiri mi oldun? Sanmıyorum. NL #r@*hıck*@ ~...ezik....~ @Hahaha@ ~haaah~",
+      "Büyük #rkırmızı #rmaskeler takmış bir grup haydutla karşılaşıyorsun. NL \"Merhaba, geçmek için ödeme yapman gerek... mantıklı bir ücret olarak @TÜM@ #yaltınların iş görür! Heh heh!\""
+    ],
+    "OPTIONS": [
+      "[Öde] #rTÜM #yAltınlarını #rkaybet.",
+      "[Dövüş!]",
+      "[Devam Et]",
+      "[Ayrıl]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Eşleştir ve Elinde Tut!",
+    "DESCRIPTIONS": [
+      "\" #bOn İki Kart! Onlara sahip olmak için eşleştir! #bBeş hakkın var, tekrarlama şansın yok. NL Hazır mısın? Hadi başlayalım!\"",
+      "Gremlin'in oyunu bitirdin ve etrafına bakınıyorsun. NL Kayıp mı oldu?",
+      "Bir gremlin masada kartları karıştırıyor. Bu canavar zararsız birine benziyor. Meraktan yaklaşıyorsun."
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Ayrıl]",
+      "[Oyna]",
+      "Kalan Denemeler: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Mantarlar",
+    "DESCRIPTIONS": [
+      "Olağandışı yeme içgüdüne yenik düşüyorsun. Mantar üstüne mantar yerken, başının döndüğünü hissediyorsun ve bayılıyorsun. Uyandığında oldukça garip hissediyorsun. NL CP'nin #b%25'i kadar #bİyileşiyorsun ama aynı zamanda #renfeksiyon kapıyorsun.",
+      "#r@Tuzak!!@ NL Etrafın mantarlar tarafından istila edildi ve gidecek hiçbir yer yok!",
+      "#b~Hipnotize~ #b~edici~ #b~renkteki~  #b~mantarlarla~ dolu bir koridora giriyorsun NL Mantarbilimindeki zayıf bilginden dolayı türleri ayırt etmekte pek iyi değilsin. NL Kaçmak istiyorsun, aynı zamanda garip bir şekilde #b~mantar~ yemek istiyorsun..."
+    ],
+    "OPTIONS": [
+      "[Ez] #rMantarları #rkızdır.",
+      "[Ye] #g",
+      " #gCP #gİyileş. #rLanetlen #r- #rParazit.",
+      "[Dövüş]",
+      "[Ayrıl]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Gizemli Küre",
+    "DESCRIPTIONS": [
+      "Etrafındaki kaotik arazide küresel bir çıkıntı görüyorsun, kemikli bir küre ve etrafında gizemli,parlayan bir obje. NL İçinde ne olduğunu merak ederken, bir şeyin onu gözlediğini farkediyorsun.",
+      "Küreye vurduğun anda, nöbetçiler etrafını sarıyor!",
+      "Açgözlü olmaya gerek yok."
+    ],
+    "OPTIONS": [
+      "[Küreyi Aç] #rDövüş. #gÖdül: #gKalıntı.",
+      "[Ayrıl]",
+      "[Dövüş]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "Kambur sırtından dokungaçlar çıkan garip bir yaratık, önünde, enkaz ve çöplerin içerisinde dolaşıyor. Yaklaştığında, sana doğru tehditkar olmayan bir biçimde ayaklarını sürüyerek yaklaşıyor. NL \"N'loth aç. N'loth'u besle.\"",
+      " #yKalıntıyı ona doğru tuttuğunda, N'loth dokungaçlarıyla ellerinden alıyor, çenesini açıyor ve hızlı bir hamleyle boğazından aşağıya gönderiyor. NL Büyük, bolca diş göstererek sana sırıtıyor o sırada pelerininin arkasında daha fazla dokungaç çıkıyor, dokungaçlar inanılmaz derecede temiz görünen bir kutu çıkartıyor. Sen alana kadar kutuyu sana doğru itiyor.",
+      "Kafanı sağa sola sallıyorsun. N'loth kamburunu daha da çıkartıyor ve iç geçiriyor sonrasında uzaklara doğru kaçıyor."
+    ],
+    "OPTIONS": [
+      "[Adak: ",
+      "] #rBu #rKalıntıyı #rkaybet. #gYeni #gözel #gbir #gKalıntı #gelde #get.",
+      "[Ayrıl]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Ayrıl]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Saflaştırıcı",
+    "DESCRIPTIONS": [
+      "Karşında unutulmuş bir ruha ait bir tapınak görüyorsun.",
+      "Reverans için eğildiğinde, omuzlarından bir yük kalkmış gibi hissediyorsun.",
+      "Tapınağı görmezden geliyorsun."
+    ],
+    "OPTIONS": [
+      "[Dua Et] #gDestenden #gbir #gKart #gsil.",
+      "[Ayrıl]",
+      "Silmek için bir Kart seç."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Hurdalıktaki Sızıntı",
+    "DESCRIPTIONS": [
+      "Odaya girdiğinde ~şırıltı~ ve metaller,n @öğütülme@ @sesini@ duyuyorsun. Önünde Balçık'a benzer kendisine zarar verecek kadar çok metal yemiş bir yaratıkla karşılaşıyorsun. Yaratığın tam ortasında garip bir ışığın parıltılarını görüyorsun, sihirli bir şey olabilir mi? Onun... açıklığına, ulaşabilirsen bir miktar #yganimet elde edebilirsin gibi görünüyor. Ancak, asit ve keskin objeler canını #ryakabilir.",
+      "#r@Ahh!@ NL Tek bulabildiğin aşınmış metal ve bir miktar #r@yanık@ #r@acısı.@ NL Yine de, hala #rkalıntı bulabileceğine eminsin...",
+      "#gBaşardın! NL Metal ve yakıcı asidi didik didik ettikten sonra, #ykalıntıyı buluyorsun ve çekip çıkartıyorsun. NL #rYaralanmış ama ödülünü almış bir şekilde hurdalıktan çıkıyorsun.",
+      "Bölgeden çıkmaya karar veriyorsun. NL Balçık ilgi göstermiyor, yemeği ona yetiyormuş gibi."
+    ],
+    "OPTIONS": [
+      "[İçine Uzan] #r",
+      " #rCP #rkaybet. #g%",
+      ":  #gKalıntı #gbul.",
+      "[Ayrıl]",
+      "[Daha Derine] #rKaybet #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Gizli Portal",
+    "DESCRIPTIONS": [
+      "Önünde uzaylı yapılarına uymayan yapılar görüyorsun. İleride duvara yerleştirilmiş #p~dönen~ #p~büyülü~ #p~geçit.~ NL NL Nereye gittiğinden emin değilsin, ama belkide Spiraldeki yolculuğunu hızlandırabilir.",
+      "Portaldan zıpladığında, uzay ve zaman sürekliliğini kaybediyorsun. NL NL Kendini yeni yerleşkelere doğru ayarladığında, önünde korkusuzca savaşman gereken bir savaş olduğunu görüyorsun.",
+      "Dikkatli ve sakince Spiral'e gitmenin daha mantıklı geldiğini düşünüyorsun. Geçiti boşverip yolunda devam ediyorsun."
+    ],
+    "OPTIONS": [
+      "[Geçite gir] Direk Bölüm Sonu Canavarı'na git.",
+      "[Ayrıl]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Sensör Taşı",
+    "DESCRIPTIONS": [
+      "Ötesine doğru giderken,  #bparlayan #bteseraktı @dönerken@ ve ~şekil değiştirirken~ buluyosun.",
+      "Dokunuyorsun. NL NL  #r@keskin@ #r@acı@ damarlarında akıyor, eski bir anıyı canlandırarak. NL ...bunlar kimin anıları?",
+      "#r~KORKU.~ NL NL şeytansı bir yaratık üstünde duruyor, kanatlarıda gülüşü gibi heryeri kaplıyor. Kabilenin ölü bedenleri seni çevrelemiş #p~karanlık~ #p~alevler.~ NL NL Şeytan, seni kışkırtıyor. NL NL \" #r@SEN@ r@GERÇEKTENDE@ #r@EN@ #r@GÜÇLÜLERİSİN@!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL bu gülüş sonsuza dek sürüyor... ",
+      "#g~ZAFER.~ NL NL  #p~hayaletimsi~ #p~yaratık~ yavaşça yanındaki çamura gömülüyor , ayışığında zar zor görebiliyorsun. Kız kardeşlerin arasında sadece sen kurtuldun. NL NL Zaferle gururlanmış şekilde beklerken, kafana #yyaratığın #ykafatasını seremoniyle beraber sana doğru getiriyorlar . Seremoni artık bitti. NL NL Spirale doğru gidiyorsun...",
+      "#b~BILINMEYEN.~ NL NL Daha hazır değil.",
+      "#p~SERENITY.~ NL NL Two primitive creatures fight over a carcass on the side of the road. You observe, devoid of emotion. NL #yWatch. #yRemember. #yLive. This is the Watcher's mission. NL NL Recently, one of your peers had stopped reporting on their assignmenet: a Spire of unknown origin. NL NL As the fight ends, you continue onward, unphased by the bloody scene that took place."
+    ],
+    "OPTIONS": [
+      "[GeriDön] #gDestene #g1 #gRenksiz #gkart #gekle.",
+      "[GeriDön] #gDestene #g2 #gRenksiz #gkart #gekle. #rKaybet #r",
+      "[GeriDön] #gDestene #g3 #gRenksiz #gkart #gekle. #rKaybet #r",
+      " #rCP.",
+      "[Ayrıl]",
+      "[EtkileşimeGeç]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Parlayan Işık",
+    "DESCRIPTIONS": [
+      "Parıldayan bir #yyığın #yışık odanın merkezini kaplıyor. NL NL ~Sıcak~ ~parlak~ ve ~büyüleyici~ , ~desen~ seni içeri davet ediyor.",
+      "Işığa doğru yürürken, ışığın içine doğru emildiğini farkediyorsun. NL #r@Yakıcı@ #r@sıcak@ ! Ancak, acı hızlıca yok oluyor. NL #bCapcanlı hissediyorsun, sanki hakedilmiş bir tokatı yemiş gibi.",
+      "Neler olabilirdi düşünerek, etrafında dolaşıyorsun."
+    ],
+    "OPTIONS": [
+      "[Gir] #g2 #grastgele #gkartı #ggeliştir. #r",
+      " #rCP #rkaybet.",
+      "[Ayrıl]",
+      "[Kilitli] Gereken: Geliştirilebilir Kart"
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Spiral Kalp",
+    "DESCRIPTIONS": [
+      "@da-dumm@ ... @da-dumm@ ... @da-dumm@ ... NL Derinden gelen dehşet dolu bir nabız sesi odanın her tarafında hissediliyor... NL Spiralin #r~kalbi~ bu mu? Bu kötülüğün kaynağı?",
+      " #b",
+      " hasar veriyorsun! NL Kalp #r@kıvranıyor@ ve #r~kanıyor~ ...ama hala atıyor. NL En güçlü atakların yeterli gelmiyor mu?",
+      "Kendine soruyorsun, ~\"Daha~ ~önce~ ~burada~ ~bulunmuş~ ~muydum?\"~ NL Kalbe toplam #b",
+      " verdiğini hissediyorsun.",
+      " NL Ona karşı koyanlar tarafından toplamda #b",
+      " hasar verildi.",
+      " NL Kalp daha sesli ve daha da sesli atmaya başlarken #y~bilincin~ #y~soluklaşıyor...~",
+      "NL Kılıcını hazırlıyorsun...",
+      "NL Hançerlerini hazırlıyorsun...",
+      "NL Maksimum gücüne kadar kendini toparlıyorsun...",
+      " NL The heart #gretreats upwards! A large door is revealed in its place.",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place.",
+      "NL You prime your staff with divine energy..."
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Saldır] #b???",
+      "[Uyu]",
+      "[Kapıya yaklaş]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "Rahip",
+    "DESCRIPTIONS": [
+      "İlginç mavi insansı bir mifer(?) büyük bir gülümsemeyle sana doğru yaklaşıyor. NL @\"Merhaba@ @arkadaşım!@ Ben bir #bRahibim! Hizmetlerimle ilgilenir misin?!\" diye yüksek sesle, bağırıyor.",
+      "Sıcak altın renkli bir ışık vücudunu sarıyor ve yok oluyor. NL Yaratık sırıtıyor. \"Rahip en iyi Şifacıdır. @İyi@ @günler!\"@",
+      "Soğuk mavi bir ışık vücudunu sarıyor ve yok oluyor. NL Yaratık sırıtıyor. \"Rahip Yeteneklidir. @İyi@ @günler!\"@",
+      "Bu #b\"Rahip\" denilen kişiye güvenmiyorsun, oradan uzaklaşıyorsun."
+    ],
+    "OPTIONS": [
+      "[İyileş] #y35 #yAltın: #gİyileş #g",
+      "[Kilitli] Gereken: ",
+      " Altın.",
+      "[Arındır] #y",
+      " #yAltın: #gDestenden #gbir #gkart #gsil.",
+      "[Kilitli] Gereken: 50 Altın.",
+      "[Ayrıl]",
+      "Silmek için bir kart seç.",
+      " #gCP."
+    ]
+  },
+  "The Joust": {
+    "NAME": "Atlı Mızraklı Dövüş",
+    "DESCRIPTIONS": [
+      "Geniş binalar arasından yol alırken iki tarafta da yüzleri birbirlerine dönük şövalyelerin olduğu dar bir köprüyle karşılaşıyorsun. Yaklaşıyorsun... NL @\"Dur!\"@ NL NL Şövalye dev mızrağıyla seni zorla durduracak bir şekilde konumlanıyor.",
+      "\"Bugün değerli evcil hayvanım #yNoodles'ın #rkatiliyle skorları eşitlediğim gün olacak. O zamana kadar geçemezsin. NL NL Sevgili izleyenler, niçin kimin galip çıkacağına dair #biddaaya girmiyorsunuz?\"",
+      "\" #yNoodles'a karşı para koyduğunuza inanamıyorum!\" NL NL Kızgınlıkla, miğferini geçiriyor ve ezeli düşmanına karşı harekete geçiyor.",
+      "\"Bana güç ver, #yNoodles!\" NL NL Şövalye miğferine vurarak ileriye doğru hareket ediyor.",
+      "NL #y@*TAAKK!!!*@ #r@*ÇAATTTT!*@ NL NL #g@*BAM!*@",
+      "Düşman katledildi. NL NL ",
+      "Sahip öldü. NL NL ",
+      " #gİddaayı kazandın. Ne düşüneceğini bilemeden kazandıklarını aldın ve ayrıldın.",
+      " #rİddaayı kaybettin, ama en azından mızrak tarafından oyulmadın."
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Katil] #y",
+      " #yAltın #yYatır - #g%70: #g",
+      " #gAltın #gkazan.",
+      "[Sahip] #y",
+      " #yAltın #yYatır - #g%30: #g",
+      "[İzle]",
+      "[Ayrıl]"
+    ]
+  },
+  "The Library": {
+    "NAME": "Kütüphane",
+    "DESCRIPTIONS": [
+      "Terkedilmiş gibi görünen şaşalı bir binayla karşılaşıyorsun. NL Duvardan kopmuş bir plaka yerde yatıyor. Üzerinde, #b\"KÜTÜPHANE\" yazıyor. NL İçeride sayısız parşöment, el yazması ve kitap var. NL Kitaplardan birini seçiyorsun, rahatlayıp uzun bir süre ordaki sandalyede vakit geçiriyorsun.",
+      "Okumak aptal işi. NL Onun yerine rahat koltukta dinleniyorsun. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Uyandığında tazelenmiş hissediyorsun.",
+      "Hikaye böcekleri kontrol edebilen ergenlik çağındaki bir kızla ilgili. Kitap bolca yaratıcı güç kullanımları, dövüş taktikleri ve değişik bakış açılarıyla dolu. NL Tatmin edici.",
+      "Hikaye yıldızların ötesine seyahat eden ve kendini ıssız yabancı bir gezegende bulan adamla ilgili. Marifet, şans, azim ve zor durumlarda espri yeteneğini kullanabilmek eve dönüşü için en büyük yardımcıları oluyor. NL Büyüleyici.",
+      "Hikaye dış dünyadaki durumlar katlanılamaz hale geldiğinden yaşamak için kalınan dev izole bir yeraltı binasıyla ilgili. Romanda komplo teorileri, propaganda ve adaletsizlik işlenmiş. Acaba Spiral'de de aynı dinamikler mi geçerli diye düşünüyorsun. NL Rahatsız edici."
+    ],
+    "OPTIONS": [
+      "[Oku] #gDestene #geklemek #giçin #g20 #gkarttan #gbirini #gseç.",
+      "[Uyu] #g",
+      " #gCP #gİyileş.",
+      "[Ayrıl]",
+      "Destene bir kart ekle."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "Anıt Mezar",
+    "DESCRIPTIONS": [
+      "Türbeler arasında gezerken, yuvarlak bir odanın tam ortasında ~mücevherlerle~ ~işlenmiş~ büyük bir mezar taşıyla karşılaşıyorsun. NL Tabutun üzerindeki yazıyı okuyamıyorsun, ancak, #p~siyah~ #p~bir~ #p~dumanın~ kenarlardan sızdığını farkediyorsun.",
+      "Tabutu açıyorsun. Tam o sırada, #p~siyah~ #p~duman~ tüm odayı kaplıyor! İçinde kimseyi görmüyorsun yalnızca bir #y~kalıntı~ var. Kalıntıyı alıyorsun, #r@öksürerek@ #r@kötü@ bir halde yoluna devam ediyorsun.",
+      "Tabutu açıyorsun. Duman zararsızca dağılıyor. İçinde eski bir #ykalıntıyı tutan askerin ölümünden geriye kalanlar var. Kalıntıyı araklıyorsun ve yoluna devam ediyorsun.",
+      "Unutulmuş ölüyü rahatsız etmeden yoluna devam ediyorsun."
+    ],
+    "OPTIONS": [
+      "[Tabutu Aç] #gKalıntı #gkazan. #r%",
+      ": #rLanetlen #r- #rKıvranma.",
+      "[Ayrıl]"
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "Moai Kafa",
+    "DESCRIPTIONS": [
+      "Hiç bu dünyadan *değilmiş* gibi hissettiren bir şeyle karşılaşıyorsun. Karşında, duvardan çıkan devasa bir kafa var, bu alan gibi dönmüyor ya da değişmiyor. NL Kafanın ağzı sonuna kadar açık kıpkırmızı kanla kaplı dişlerini görüyorsun. Heykelin yüzeyi insanların kendilerini bu ağıza attıklarını ve yenilip bittiklerini gösteren hiyerogliflerle dolu. Niçin birisi böyle bir şey yapsn ki?",
+      "İlk başta heykelin ağızına doğru adım attığında hiçbir şey olmuyor. Aptal gibi hissetmeye başladığın anda, korktucu büyüklükte bir diş üzerinde beliriyor, seni tamamen eziyor. NL @Karanlık.@ NL Bir süre sonra, karanlık çekilirken, bir ışık hüzmesi görüyorsun. NL NL NL Aklın karışık bir şekilde oradan ayrılıyorsun.",
+      "Devasa diş putu eziyor, onu toza çeviriyor. Diş tekrar yukarı kalkmaya başlıyor, açıklıktan #yaltınlar bir sel gibi yağıyor.",
+      "Ayrılırken merak ediyorsun, neler olabilirdi..."
+    ],
+    "OPTIONS": [
+      "[İçeriye Atla] #gTam #gCP'ne #gkadar #gİyileş. #r",
+      " #rMaksimum #rCP #rkaybet.",
+      "[Adak: Altın Put] #g333 #gAltın #gedin. #rAltın #rPut'u #rkaybet.",
+      "[Kilitli] Gereken: Altın Put.",
+      "[Ayrıl]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "Mavi Giymiş Kadın",
+    "DESCRIPTIONS": [
+      "Karanlığın içinden, bir kol seni küçük bir dükkana çekiyor. Gözlerini tekrardan odaklayabildiğinde, soluk tenli şık giyimli bir kadının duvar boyunca dizilmiş iksirlerin yanında durduğunu görüyorsun. NL \"İksir satın al. Şimdi!\" diyor.",
+      "\"İyi. Şimdi çık.\" NL Dükkandan dikkatlice çıkıyorsun.",
+      "#r@BAM@ NL Eldivenli yumruğu suratına çarpıyor, neredeyse devrilecektin. NL \"Yeri bağırsaklarınla doldurmadan önce git buradan.\" Onun lafını dinliyorsun, bağırsakların hala güvende ve yerindeyken dükkandan çıkıyorsun."
+    ],
+    "OPTIONS": [
+      "[1 İksir Al] #y",
+      "[2 İksir Al] #y",
+      "[3 İksir Al] #y",
+      " #yAltın.",
+      "[Ayrıl]",
+      "[Ayrıl] #rHasar #r",
+      " #rAl."
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Su İçinde Düşünmek",
+    "DESCRIPTIONS": [
+      "Parıldayan bir su birikintisine doğru yürüyorsun... ve gök bir anda çöküyor, düşmeye başlıyorsun! NL Serbest düşüşteyken seçeneklerini gözden geçiriyorsun.",
+      "Kollarını birbirine sarıyorsun ve kendini sakatlanmaktan korumak için tüm gizli numaralarını ortaya çıkartıyorsun. Ancak, yeniden suya düşüyorsun... ve yeniden... ve yeniden. Nasıl çıkabileceğini farkedene kadar günler geçiyor. Gerçekten çaresizsin.",
+      "Kendini inişe hazırlıyorsun ama böylesine tuhaf bir mekandan çıkabilmenin iyi bir yolu yok. @GÜM@ NL NL ...orada bir süre yatıyorsun, su birikintilerinin varlığına küfrederek, sıvı olanlara da büyülü olanlara da."
+    ],
+    "OPTIONS": [
+      "[Üstüne Bulaştı] #rRastgele #rNadir #rbir #rkartı #rkaybet.",
+      "[Önce Yüzüstü Yat] #r",
+      " #rhasar #ral. #rLanetlen #r- #rSakatlanma.",
+      "[Ayrıl]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Lord Kırmızı Maske'nin Türbesi",
+    "DESCRIPTIONS": [
+      "Oldukça süslü bir türbe yolun karşı tarafından görülebiliyor. Türbeye ulaştığında, bir yazıtın üstünde #raltın konulacak bir yer görüyorsun.",
+      "Oradaki maskeyi takıyorsun ve türbe ~açılmaya~ ~başlıyor...~ gizli bir geçit! NL NL Geçit sayısız çalıntı mal ve tepe tepe #yaltın içeriyor!",
+      "Türbede bir yer açılıyor ve içinden not iliştirilmiş küçük kırmızı bir maske düşüyor. \"Senden aldığım gibi sen de diğerlerinden al!\""
+    ],
+    "OPTIONS": [
+      "[Kırmızı Maskeyi Tak] #g222 #gAltın #gkazan.",
+      "[Kilitli] Gereken: Kırmızı Maske.",
+      "[Adak: ",
+      " Altın] #rTüm #rAltınlarını #rkaybet. #gBir #gKalıntı #gkazan.",
+      "[Ayrıl]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Transformatör",
+    "DESCRIPTIONS": [
+      "Karşında unutulmuş bir ruha ait bir tapınak görüyorsun.",
+      "Tapınağın gücü içinden akarken, aklında bir şeyler değiştirilmiş gibi hissediyorsun.",
+      "Tapınağı görmezden geliyorsun."
+    ],
+    "OPTIONS": [
+      "[Dua Et] #gBir #gKartı #gDönüştür.",
+      "[Ayrıl]",
+      "Dönüştürmek için bir Kart seç."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Geliştirme Tapınağı",
+    "DESCRIPTIONS": [
+      "Karşında unutulmuş bir ruha ait bir tapınak görüyorsun.",
+      "Tapınağın enerjisi içine akıyor, seni daha güçlü yapıyor.",
+      "Tapınağı görmezden geliyorsun."
+    ],
+    "OPTIONS": [
+      "[Dua Et] #gBir #gKartı #gGeliştir.",
+      "[Ayrıl]",
+      "Geliştirmek için bir Kart seç.",
+      "[Kilitli] Gerekenler: Geliştirilebilir Kartlar"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Vampirler",
+    "DESCRIPTIONS": [
+      "Işıklandırılmamış bir caddede yolunu bulmaya çalışırken, karanlık bir ritüelin ortasındaki kapşonlu birkaç kişiyle karşılaşıyorsun. Yaklaştığında, ürkütücü bir uyumla sana dönüyorlar. İçlerinden en uzunu azılı dişlerini ortaya çıkartıyor uzun, soluk elini sana doğru uzatıyor. NL ~\"Bize~ ~katıl~ ~kardeşim,~ ~ve~ ~Spiral'in~ ~sıcaklığını~ ~hisset.\"~",
+      "Işıklandırılmamış bir caddede yolunu bulmaya çalışırken, karanlık bir ritüelin ortasındaki kapşonlu birkaç kişiyle karşılaşıyorsun. Yaklaştığında, ürkütücü bir uyumla sana dönüyorlar. İçlerinden en uzunu azılı dişlerini ortaya çıkartıyor uzun, soluk elini sana doğru uzatıyor. NL ~\"Bize~ ~katıl~ ~kardeşim,~ ~ve~ ~Spiral'in~ ~sıcaklığını~ ~hisset.\"~",
+      "Uzun, kolunu tutuyor, seni kendine doğru çekiyor ve dişlerini boynuna batırıyor. @Karanlık@ @gücün@ boynundan içeri döküldüğünü ve vücudunda @dolaştığını@ hissediyorsun. NL ... NL Bir süre sonra uyanıyorsun, yalnızsın. Yoğun bir ~açlık~ hissediyorsun. #rBeslenmelisin...",
+      "Geri çekiliyorsun ve silahını meydan okurcasına çekiyorsun. Uzun iç geçiriyor. \"Peki öyleyse.\" Kapşonlular yoğun siyah bir sisin içerisinde kayboluyorlar. NL Bir kez daha yalnızsın.",
+      "#yKan #yDolu #yŞişe'yi çıkarttığında, soluk tenlilerin nefesi kesiliyor. NL ~\"Ustanın~ ~kanı...~ ~Ustamızın~ ~kanı!~ @USTAMIZIN@ @KANI!\"@ NL Hararetli bir şekilde konuşmaya başladıkları sırada uzun olan önünde eğiliyor. \" Onun kanından iç ve #y~Onunla bir ol.\"~ NL Şişedekini içerken konuşmaların gürültüsü daha da artıyor. Görüşün anında ~bozuluyor~ ve karanlığa gömülüyorsun. NL NL Bir süre sonra uyanıyorsun, yalnızsın. Yoğun bir ~açlık~ hissediyorsun. #rBeslenmelisin.",
+      "Aydınlatılmamış bir sokakda yürüyorsun, garip bir karanlık ritüel yapan birkaç kapşonlu insanı görüyorsun. yaklaştığında, seni güçsüz ve yitik birşeye dönüştürüyorlar. En uzunları uzun dişleri ve kolundaki çizikleriyle sana uzanıp, elini sana uzatıyor. NL ~\"Bize~ ~katıl~ ~kırık~ ~olan,~ ~ve~ ~Spiral'in~ ~sıcaklığını~ ~içinde~ ~hissetmeye~ ~başla~.\"~"
+    ],
+    "OPTIONS": [
+      "[Kabul Et] #gTüm #gVuruş'ları #gsil. #g5 #gIsırık #gal. #r",
+      " #rMaks #rCP #rkaybet.",
+      "[Reddet]",
+      "[Kaybet ",
+      "] #gTüm #gVuruş'ları #gsil. #r5 #rIsırık #ral.",
+      "[Ayrıl]"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Değişim Çarkı",
+    "DESCRIPTIONS": [
+      "Şık görünümlü, neşeli bir gremlinle karşılaşıyorsun. NL \"Çarkı döndürme zamanı! ~H~ ~A~ ~Z~ ~I~ ~R~  ~M~ ~I~ ~S~ ~I~ ~N~ ~?~ Tabii ki hazırsın!\"",
+      "\"Biraz #yALTIN kazandın! NL YEHU!!!!\"",
+      "\"Ah, bir #ghediye! NL Umarım hoşuna gider!\"",
+      "\"Oooh, senin için bedava #gİyileşme!\"",
+      "\"Görünüşe göre #pLanet kazandın! NL Bu pek iyi değil. NL Eh napalım! Bir daha ki sefere iyi şanslar!\"",
+      "\"Ohh, #r~Karanlığın~ #r~Gücü~ NL Destenden silmek için bir kart seç!\"",
+      "\"Aa oo! NL Kaybettin!\" NL Sustalısını hazırladığını görüyorsun...",
+      "Deli gremline vurmaya çalışıyorsun ama çok hızlı! NL Seni Sustalısıyla bir kaç kez yaralıyor. NL \"Bedel ödendi!!\" NL ve sonra, gremlin ve çarkı bir duman içerisinde kayboluyor."
+    ],
+    "OPTIONS": [
+      "[Oyna]",
+      "[Ödül!] YAŞASIN!!!!",
+      "[Ödül!] #gBir #gKalıntı #gkazan.",
+      "[Ödül!] #gTam #gcanına #gkadar #gİyileş.",
+      "[Ödül?] #rLanet #r- #rÇürüme.",
+      "[Ödül!] #gDestenden #gbir #gKart #gsil.",
+      "[Prize?] #r",
+      " #rCP #rkaybet.",
+      "[Ayrıl]",
+      "Silmek için bir Kart Seç."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Dolambaçlı Koridorlar",
+    "DESCRIPTIONS": [
+      "Kıvrımlı patikalardan yavaşça ilerlerken, duvarlar ve yer açıklanamaz şekilde değişiyor ve sürekli yolunu kaybediyorsun. Başının arkasında sürekli fısıldayan sesler de hiç yardımcı olmuyorlar.",
+      "Daha önce gördüğüne emin olduğun bir yapıyı tekrardan geçerken, deliriyor musun yoksa buranın jeografik yapısını çözmek mi imkansız, düşüncesi sinirini bozmaya başlıyor. Acilen bir şeyleri değiştirmelisin. En azından sesler böyle söylüyor, neden yalan söylesinler ki?",
+      "İçinde bir şeyler kırılıyor. Yalnızca kafayı yemiş biri böyle bir mekanı çözebilir, böylece sohbet eden seslere kendini bırakıyorsun \"yeni\" bir bakış açısı için. Olaylar şimdi çok daha mantıklı gelmeye başlıyor.",
+      "Bir süre durup etrafındaki manzarayı dikkatle gözlemlerken, rastgelelikten bir örüntünün ipuçlarını keşfediyorsun sanki. Ne zaman o çılgın sesler düşüncelerini bölerse, zihinsel acıyı göğüslüyorsun ve umursamıyorsun. NL NL En sonunda ileriye doğru giden yolu buluyorsun ve artık bu dünya dışı yerin aldatıcı doğasına dayanıklısın.",
+      "Zaman senin için geçmiyor gibi geliyor. yavaşça ama kesin olarak adımlarını takip ederek, kendini ayarlayarak, kıvrık yollardan çıkıyorsun. NL NL Bu tecrübeden #r~yorulmuş~ olarak ayrılıyorsun."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Deliliği Kucakla] #g2 #gDelilik #gkazan. #r",
+      " #rCP #rkaybet.",
+      "[Odaklan] #rLanetlen #r- #rKıvranma. #g",
+      "[Ayrıl]",
+      " #gCP #gİyileş.",
+      "[Adımlarını Takip Et] #rKaybet #r",
+      " #rMax #rCP."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Yapışkanlar Dünyası",
+    "DESCRIPTIONS": [
+      "Bir bataklığa düştün. NL #g@BalçıkLARDAN@ @OLUŞAN!!@ NL Delicesine, bu yapışkanın yakmaya başladığını hissedene kadar bir kaç dakika pençeleşiyorsun. NL Kulaklarında yapışkan, burnunda yapışkan, yapışkan her yerde. NL NL Yukarıya çıkarken biraz #galtınının eksik olduğunu farkediyorsun. Geriye baktığında yapışkanın içinde diğer maceraperestlerinkine karışmış #galtınları görüyorsun.",
+      "Yapışkana uzun süreli maruz kalmanın etkisizle oluşan batmaların ve derinde erimesinin hissiyle beraber, #galtınları çıkartmayı başarıyorsun.",
+      "Değmediğine karar verdin."
+    ],
+    "OPTIONS": [
+      "[Altınları Topla] #g",
+      " #gAltın #gkazan. #r",
+      " #rCP #rkaybet.",
+      "[Orada Bırak] #r",
+      " #rAltın #rkaybet.",
+      "[Ayrıl]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Zihin Yıkımı",
+    "DESCRIPTIONS": [
+      "Spiralde yükselirken hayal görmeye başlıyorsun. Bir süre sonra, düşüncelerinin kafandan çıkıp senin etrafını çevrelediğini görüyorsun.",
+      "Karışık",
+      "Karışık"
+    ],
+    "OPTIONS": [
+      "[Geçmişden Bir Düşman] #rDİKKAT: #rBir #rBölümSonuCanavarı #rSavaş! #g2 #gKalıntı #gKazan.",
+      "[Karışık Duygular] #rKötüYanı. #gKüçük #gİyiYanı.",
+      "[Ayrıl]",
+      "[Uyanığım] #gTÜM #gkartları #gGeliştir. #rArtık #rdaha #rfazla #riyileşemezsin.",
+      "[Ayrıl]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Yuva",
+    "DESCRIPTIONS": [
+      "Merkez bir lokasyonun çevresine toplanıyor gibi görünüyorlar. Sen yaklaşırken şaşırtıcı bir derecede sakinler, herhangi bir saldırı haraketi yapmıyorlar. Tarikatlarına yeni üyelerin bir ritüel ile kaydedildiğini görüyorsun.",
+      "Sıraya girip seni ritüellerine alacaklarını merak ediyorsun. NL NL Bir anda seremoniye yaklaştın, maskeli lider kolunu bir bıçak ile kestiğinde, gücünün birazının bıçağa aktığını hissediyorsun. NL NL Tarikata kabulün biterken, yeni üyeliğinin sembolü olarak sana bıçağı veriyorlar.",
+      "Bir anlık avantaj bularak, kaçışını yapmadan önce etrafa yayılmış değerli eşyalar görüyorsun.",
+      "",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Tarikata Katıl] #gRitüel #gBıçağı #gKazan. #rAşağıDüşür #r",
+      ".",
+      "[Kap ve Kaç] #g150 #gAltın #gKazan.",
+      "[Kilitli] Gerekenler: Geliştirilmiş Kart.",
+      "[Ayrıl]",
+      "[Devam Et]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Yüz Tüccarı",
+    "DESCRIPTIONS": [
+      "SEN YENİ BİR YÜZ KULLANABİLECEK BİRİNE BENZİYORSUN!",
+      "YENI YUZUN HAYIRLI OLSUN!",
+      "~\"CHMMMM?~ ~Tazminat.\"~ NL teknik olarak, yandaki  #yaltın kesesini alıp eline sıkıştırıyor. NL NL ~\"Ne~ ~kadarda~ ~güzel~ ~yüz.~ ~Güzel~ ~yüz.\"~ NL yüzüne dokunurken, içinden hayatının emildiğini hissediyorusn! NL Tam o sırada, maskesi düşüyor ve parçalanıyor. Çığlık atmaya başlıyor, hızlıca yüzünü kapatmaya çalışırken 6 kolundan maskeler,n düşüp kırılmaya başladığını görüyorsun! Çığlık ve parçalanmaların arasında, kaçışını yapıyorsun. NL NL Yüzü ise tamamen boşluk idi.",
+      "~\"Benim~ ~içinmi?~ @BENİM@ @İÇİN?@ ~Oh~ ~evet..~ ~Evet.~ ~EVET..~ ~mmm...\"~ NL NL kollarından birinin titrediğini görüyorsun, dikkatlice baktığında yüzünün orada olduğunu görüyorsun! Yüzün değiştirildi. NL NL ~\"Güzel~ ~yüz.~ ~Güzel~ ~yüüz.\"~",
+      "~\"Dur.~ ~dur.~ ~dur.~ ~Dur.~ ~dur.\"~ NL NL Tahminen bu doğru karardı."
+    ],
+    "OPTIONS": [
+      "[N'Loth'un Maskesi] #gHer #gNadir #gkart #goynadığında, #g3 #gblok #gkazan.",
+      "[Yılann Kafası] #gHer #golaya #gdahil #Altınuğunda, #g50 #gAltın #gkazan.",
+      "[Şifacı'nın Yüzü] #gHer #gDövüşten #gSonra #gMaksimum #gCP'ni #g1 #garttır.",
+      "[Ayrıl]",
+      "[Devam Et]",
+      " #rCP, #gkazan #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "Kendine Bir Not",
+    "DESCRIPTIONS": [
+      "Dikkatini çeken bir kiremit görüyorsun.",
+      "Katlanmış bir not birde #ykart buluyorsun. Yazıyorki, NL \"Kalp Bekliyor.\" NL NL Bu senin elyazın.",
+      "Saklamak için bir kart seç.",
+      "Neler oluyor?"
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Al ve Ver] #gKazan ",
+      " #gve #gbir #gKartı #gSakla.",
+      "[GörmezdenGel]",
+      "[Ayrıl]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "Yine Karşılaştık!",
+    "DESCRIPTIONS": [
+      "\"Yine karşılaştık!\" NLTatlış bir eleman sana doğru yaklaşıyor.Bu adamı tanıyorsun. NL NL \"Benim, #yRanwid! Bugün benlik birşeylerin varmı? The usual? Benim gibi bi eleman kendi başına yapamaz biliyorsun?\" NL Ona dikkatlice bakarak seçeneklerini gözden geçiriyorsun...",
+      "\"Harika! Kötü hissediyordum.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL İksiri tekte içip mutlu bir şekilde @geğiriyor.@",
+      "\"Mükemmel! Birdaha #rmaske #rgiyen #rdeğişiklerle karşılaşırsam baya işe yarayacak.\"",
+      "\"Mükemmel! Bunu evimde daha iyi araştırayım.\"",
+      "\" @Aaaaagghh!!@ Bazen çok şerefsiz olabiliyorsun! NL Kaçtığını görüyorsun.",
+      "  NL NL Ceplerini karıştırıyor... NL \"Bak, bugün senin için nelerim var! Al çekinme al!\""
+    ],
+    "OPTIONS": [
+      "[İksir Ver] #rKaybet ",
+      "[Kilitli] Gereken: İksir",
+      "[Altın Ver] #rKaybet #r",
+      "[Kilitli] Gerekenler: En az 50 Altın.",
+      "[Kart Ver] #rKaybet ",
+      "[Kilitli] Gerekenler: Kart",
+      ". #gElde Et #gKalıntı",
+      "[Saldır]",
+      "[Ayrıl]",
+      " #rAltın"
+    ]
+  },
+  "Designer": {
+    "NAME": "Spiraldeki Dizayncı",
+    "DESCRIPTIONS": [
+      " #g~rengarenk~ bayraklı bir market buluyorsun \"Spiraldeki\" içinde ne olduğunu görmek için yürüyorsun. NL \"Hayır, Hayıır. Hayır. Seni içeri alamam!\" NL NL Garip kıyafetli bir adam seni durdurmak için içerden çıkıyor.",
+      "\"Bu olmaz olmaz. Bu stil ne böyle? @İğrenç!@ Sen #rkanıyormusun? #p~Öğk.~ @İŞ'Mİ??@ Sen bir müşterimisin? Peki. ~Neyse.\"~ NL İç çekip sana servislerini gösteriyor. NL NL Sunabileceği servisler baya iyi görünüyor, ama sen bu gereksiz adamı gereksiz yüzünden yumruklamayı daha fazla istiyorsun.",
+      "\"Tamam bay bay.\" NL NL ...onu yumruklamalıydın.",
+      "Onu o kadar sert yumrukladın ki elin ağrıdı. NL \" @YÜZÜM!!@ Şimdi Zorunda kalıcam-\" NL NL Bayıldı. Şimdi kim #p~iğrenç~ ve #rkanlar içinde?"
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Ayarlamalar] #rKaybet #r",
+      "[Temizle] #rKaybet #r",
+      "[Ful Servis] #rKaybet #r",
+      "[Yumrukla] #rKaybet #r",
+      " #rCP.",
+      " #rAltın. ",
+      "#gGeliştir #g",
+      " #grastgele #gKartlar.",
+      "#gBir #gKartı #gGeliştir.",
+      "#gBir #gKartı #gSil.",
+      "#gDeğiştir #g",
+      " #gKart.",
+      "#gBir #gKartı #gSil #gve #gRastgele #gbir #gKartı #gGeliştir.",
+      "[Ayrıl]",
+      "Geliştirmek için bir kart seç",
+      "Dönüştürmek için 2 kart seç",
+      "Silmek için bir kart seç"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "Kolezyum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Bayıltıldın...~",
+      "~Ağrıyan~ ve @sızlayan@ bir başla, uyandığında kendini  #bKöle Efendileri, #pTarikatçılar, ve şehrin diğer insanları tarafından seslerle sallanan bir stadyuma atılmış buluyorsun! NL ",
+      " NL #yAltın #yTaçlı ve zırh giymiş bir dev yukarıdan sana bakıyor, NL @\"Şimdi@ @Dövüşe@ @başlıyoruz@!!!!\"@ NL Diğer taraftaki kapı açılıyor...",
+      "@\"Aferin@ @Küçük!\"@ NL Dev kalabalığı alkışlarıyla ayağa kaldırıyor. NL #y~Altın~ ~ve~ #y~Konfeti~ ~üstüne~ ~yağıyor!~ NL @\"GERÇEK@ @BİR@ @SAVAŞA@ @HAZIR@ @MISINIZ!!\"@ NL NL Geçen savaş kolezyum'un duvarında bir yarık oluşturdu, herkes kutlama yaparken kaçabileceğini anlıyorsun. NL Kalıp savaşacak mısın?",
+      "@\"PEKİ@ @ÖYLEYSE,@ @CILIZ!\"@ NL Dev alay gürlemesi yaparak ve abartılı hareketlerle kalabalığı hareketlendir heyecanlandırdı. NL #y~Altın~ ~ve~ #y~Konfeti~ ~üstüne~ ~yağıyor!~ NL @\"GERÇEK@ @MEYDAN@ @OKUMA@ @ZAMANI@ @GELDİ!!\"@ NL NL Son savaş Colosseum'un duvarında küçük bir açılış bıraktı, herkesin dikkati dağılmışken oradan kolayca kaçabilirsiniz. NL Kalır ve dövüşür müsün?"
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Dövüş]",
+      "[KORKAKLIK] Kaç.",
+      "[ZAFER] Bir çok ödülle dolu haşmetli bir savaş."
+    ]
+  }
+}

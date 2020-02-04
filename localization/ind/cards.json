@@ -1,0 +1,1886 @@
+{
+  "A Thousand Cuts": {
+    "NAME": "Seribu Sayatan",
+    "DESCRIPTION": "Ketika kamu memainkan sebuah kartu, beri !M! damage ke SEMUA musuh."
+  },
+  "Accuracy": {
+    "NAME": "Akurasi",
+    "DESCRIPTION": "Shiv memberi !M! tambahan damage."
+  },
+  "Acrobatics": {
+    "NAME": "Akrobatik",
+    "DESCRIPTION": "Ambil !M! kartu. NL Buang 1 kartu."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalin",
+    "DESCRIPTION": "Dapatkan [G]. NL Ambil 2 kartu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Dapatkan [G] [G]. NL Ambil 2 kartu. NL Hangus."
+  },
+  "After Image": {
+    "NAME": "Bayang-Bayang",
+    "DESCRIPTION": "Ketika kamu memainkan sebuah kartu, dapatkan 1 Blok.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Ketika kamu memainkan sebuah kartu, dapatkan 1 Blok."
+  },
+  "Aggregate": {
+    "NAME": "Agregat",
+    "DESCRIPTION": "Dapatkan [B] untuk setiap !M! kartu di dek ambil."
+  },
+  "All For One": {
+    "NAME": "Semua untuk Satu",
+    "DESCRIPTION": "Beri !D! damage. Letakkan semua kartu berharga 0 dari dek buang ke tangan."
+  },
+  "All Out Attack": {
+    "NAME": "Serangan Penuh",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Buang 1 kartu secara acak."
+  },
+  "Allocate": {
+    "NAME": "Alokasi",
+    "DESCRIPTION": "Dapatkan !M! Fokus. NL Kehilangan 1 Daya. NL Kehilangan 1 Ketangkasan."
+  },
+  "Amplify": {
+    "NAME": "Amplifikasi",
+    "DESCRIPTION": "Pada giliran ini, Kekuatan selanjutnya dimainkan dua kali.",
+    "UPGRADE_DESCRIPTION": "Pada giliran ini, !M! Kekuatan selanjutnya dimainkan dua kali."
+  },
+  "Anger": {
+    "NAME": "Amarah",
+    "DESCRIPTION": "Beri !D! damage. NL Tambah satu salinan dari kartu ini ke dek buang."
+  },
+  "Apotheosis": {
+    "NAME": "Pendewaan",
+    "DESCRIPTION": "Peningkatan SEMUA kartumu hingga akhir pertarungan. NL Hangus."
+  },
+  "Armaments": {
+    "NAME": "Persenjataan",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Peningkatan sebuah kartu di tangan hingga akhir pertarungan.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Peningkatan SEMUA kartu di tangan hingga akhir pertarungan."
+  },
+  "AscendersBane": {
+    "NAME": "Kutukan Pendaki",
+    "DESCRIPTION": "Statis. NL Ethereal. NL Tidak bisa dihapus dari dek."
+  },
+  "Auto Shields": {
+    "NAME": "Perisai Otomatis",
+    "DESCRIPTION": "Jika kamu mempunyai 0 Blok, Dapatkan !B! Blok."
+  },
+  "Axe Kick": {
+    "NAME": "Tendangan Kapak",
+    "DESCRIPTION": "Beri !D! damage. NL Bangkit Orb selanjutnya."
+  },
+  "Backflip": {
+    "NAME": "Mengelak",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Ambil 2 kartu."
+  },
+  "Backstab": {
+    "NAME": "Menusuk Belakang",
+    "DESCRIPTION": "Beri !D! damage. NL Permulaan. NL Hangus."
+  },
+  "Ball Lightning": {
+    "NAME": "Bola Petir",
+    "DESCRIPTION": "Beri !D! damage. Salur !M! Petir."
+  },
+  "Bandage Up": {
+    "NAME": "Perban",
+    "DESCRIPTION": "Sembuhkan !M! HP. NL Hangus."
+  },
+  "Bane": {
+    "NAME": "Teracuni",
+    "DESCRIPTION": "Beri !D! damage. NL Jika musuh Teracuni, Beri !D! damage lagi."
+  },
+  "Barrage": {
+    "NAME": "Berondongan",
+    "DESCRIPTION": "Beri !D! damage untuk setiap Orb yang Disalurkan."
+  },
+  "Barricade": {
+    "NAME": "Barikade",
+    "DESCRIPTION": "Blok tidak lagi kadaluarsa pada awal giliran."
+  },
+  "Bash": {
+    "NAME": "Hantam",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Rentan."
+  },
+  "Battle Trance": {
+    "NAME": "Rasukan Tempur",
+    "DESCRIPTION": "Ambil !M! kartu. NL Kamu tidak dapat mengambil Kartu tambahan giliran ini."
+  },
+  "Beam Cell": {
+    "NAME": "Sel Sorotan",
+    "DESCRIPTION": "Beri !D! damage dan terapkan !M! Rentan."
+  },
+  "Berserk": {
+    "NAME": "Amukan",
+    "DESCRIPTION": "Dapatkan !M! Rentan. NL Dapatkan [R] pada awal tiap giliran."
+  },
+  "Biased Cognition": {
+    "NAME": "Pengartian Bias",
+    "DESCRIPTION": "Dapatkan !M! Fokus. NL Pada awal setiap giliran, kehilangan 1 Fokus."
+  },
+  "Bite": {
+    "NAME": "Gigit",
+    "DESCRIPTION": "Beri !D! damage. NL Sembuhkan !M! HP."
+  },
+  "Blade Dance": {
+    "NAME": "Tari Pedang",
+    "DESCRIPTION": "Tambah !M! Shiv ke tangan."
+  },
+  "Blaster": {
+    "NAME": "Blaster",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Dapatkan [B] untuk setiap Orb yang Disalurkan. NL Hangus."
+  },
+  "Blind": {
+    "NAME": "Buta",
+    "DESCRIPTION": "Terapkan !M! Lemah.",
+    "UPGRADE_DESCRIPTION": "Terapkan !M! Lemah ke SEMUA musuh."
+  },
+  "Blizzard": {
+    "NAME": "Badai Salju",
+    "DESCRIPTION": "Beri damage sama dengan !M! kali Beku Disalurkan pada pertarungan ini ke SEMUA musuh.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Beri !D! damage.)",
+      ""
+    ]
+  },
+  "Blood for Blood": {
+    "NAME": "Darah untuk Darah",
+    "DESCRIPTION": "Harga berkurang 1 [R] NL setiap kali kamu kehilangan HP di pertarungan. NL Beri !D! damage."
+  },
+  "Bloodletting": {
+    "NAME": "Tetes Darah",
+    "DESCRIPTION": "Dapatkan [R]. NL Kehilangan 3 HP.",
+    "UPGRADE_DESCRIPTION": "Dapatkan [R] [R]. NL Kehilangan 3 HP."
+  },
+  "Bludgeon": {
+    "NAME": "Gada",
+    "DESCRIPTION": "Beri !D! damage."
+  },
+  "Blur": {
+    "NAME": "Buram",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Blok tidak kadaluarsa pada awal giliran selanjutnya."
+  },
+  "Body Slam": {
+    "NAME": "Banting Tubuh",
+    "DESCRIPTION": "Beri damage sebanyak Blok saat ini.",
+    "UPGRADE_DESCRIPTION": " NL (Beri !D! damage.)"
+  },
+  "BootSequence": {
+    "NAME": "Rangkaian Awal",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Permulaan. NL Hangus."
+  },
+  "Bouncing Flask": {
+    "NAME": "Labu Loncat",
+    "DESCRIPTION": "Terapkan 3 Racun ke musuh acak !M! kali."
+  },
+  "Brutality": {
+    "NAME": "Kebrutalan",
+    "DESCRIPTION": "Pada awal giliran, kehilangan 1 HP dan ambil 1 kartu.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Pada awal giliran, kehilangan 1 HP dan ambil 1 kartu."
+  },
+  "Buffer": {
+    "NAME": "Jarak Pelindung",
+    "DESCRIPTION": "Cegah saat kamu kehilangan HP selanjutnya.",
+    "UPGRADE_DESCRIPTION": "Cegah !M! kesempatan kamu kehilangan HP selanjutnya."
+  },
+  "Bullet Time": {
+    "NAME": "Tempo Peluru",
+    "DESCRIPTION": "Kamu tidak bisa ambil kartu apapun giliran ini. Kurangi harga kartu di tangan menjadi 0 giliran ini."
+  },
+  "Burn": {
+    "NAME": "Terbakar",
+    "DESCRIPTION": "Statis. NL Pada akhir giliran, dapatkan 2 damage.",
+    "UPGRADE_DESCRIPTION": "Statis. NL Pada akhir giliran, dapatkan 4 damage."
+  },
+  "Burning Pact": {
+    "NAME": "Pakta Membara",
+    "DESCRIPTION": "Hangus 1 kartu. NL Ambil !M! kartu."
+  },
+  "Burst": {
+    "NAME": "Letusan",
+    "DESCRIPTION": "Pada giliran ini, Kemampuan selanjutnya dimainkan dua kali.",
+    "UPGRADE_DESCRIPTION": "Pada giliran ini, !M! Kemampuan selanjutnya dimainkan dua kali."
+  },
+  "Calculated Gamble": {
+    "NAME": "Judi Terencana",
+    "DESCRIPTION": "Buang tanganmu, NL kemudian ambil kartu berjumlah sama. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Buang tanganmu, NL kemudian ambil kartu berjumlah sama."
+  },
+  "Caltrops": {
+    "NAME": "Ranjau",
+    "DESCRIPTION": "Ketika kamu diserang, beri !M! damage ke penyerang."
+  },
+  "Capacitor": {
+    "NAME": "Kapasitor",
+    "DESCRIPTION": "Dapatkan !M! petak Orb.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !M! petak Orb."
+  },
+  "Carnage": {
+    "NAME": "Pembantaian",
+    "DESCRIPTION": "Ethereal. NL Beri !D! damage."
+  },
+  "Catalyst": {
+    "NAME": "Katalis",
+    "DESCRIPTION": "Racun musuh digandakan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Racun musuh dikalikan tiga. NL Hangus."
+  },
+  "Chaos": {
+    "NAME": "Kekacauan",
+    "DESCRIPTION": "Salur !M! Orb acak.",
+    "UPGRADE_DESCRIPTION": "Salur !M! Orb acak."
+  },
+  "Chill": {
+    "NAME": "Dingin",
+    "DESCRIPTION": "Salur !M! Beku sejumlah musuh di pertarungan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Salur !M! Beku sejumlah musuh di pertarungan. NL Hangus."
+  },
+  "Choke": {
+    "NAME": "Mencekik",
+    "DESCRIPTION": "Beri !D! damage. NL Ketika kamu main kartu giliran ini, musuh yang disasar kehilangan !M! HP."
+  },
+  "Chrysalis": {
+    "NAME": "Kepompong",
+    "DESCRIPTION": "Tambah !M! Kemampuan acak ke dek ambil. Semuanya berharga 0 pertarungan ini. NL Hangus."
+  },
+  "Clash": {
+    "NAME": "Bentrokan",
+    "DESCRIPTION": "Hanya bisa dimainkan jika semua kartu di tangan adalah Serangan. NL Beri !D! damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Aku punya kartu bukan Serangan di tangan."
+    ]
+  },
+  "Cleave": {
+    "NAME": "Belah",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Jubah dan Pisau",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Tambah !M! Shiv ke tangan.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Tambah !M! Shiv ke tangan."
+  },
+  "Clothesline": {
+    "NAME": "Gantung",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Lemah."
+  },
+  "Clumsy": {
+    "NAME": "Ceroboh",
+    "DESCRIPTION": "Statis. NL Ethereal."
+  },
+  "Cold Snap": {
+    "NAME": "Caplokan Dingin",
+    "DESCRIPTION": "Beri !D! damage. Salur !M! Beku."
+  },
+  "Combust": {
+    "NAME": "Membakar",
+    "DESCRIPTION": "Pada akhir giliran, kehilangan 1 HP dan beri !M! damage ke SEMUA musuh."
+  },
+  "Concentrate": {
+    "NAME": "Konsentrasi",
+    "DESCRIPTION": "Buang !M! kartu. NL Dapatkan [G] [G]."
+  },
+  "Conserve Battery": {
+    "NAME": "Isi Baterai",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Giliran selanjutnya dapatkan [B]."
+  },
+  "Consume": {
+    "NAME": "Konsumsi",
+    "DESCRIPTION": "Dapatkan !M! Fokus. NL Kehilangan 1 petak Orb."
+  },
+  "Coolheaded": {
+    "NAME": "Kepala Dingin",
+    "DESCRIPTION": "Salur 1 Beku. NL Ambil !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Salur 1 Beku. NL Ambil !M! kartu."
+  },
+  "Corpse Explosion": {
+    "NAME": "Ledakan Mayat",
+    "DESCRIPTION": "Terapkan !M! Racun. NL Ketika musuh itu mati, beri damage ke SEMUA musuh sama dengan HP Maks milik musuh itu.",
+    "UPGRADE_DESCRIPTION": "deprecated",
+    "EXTENDED_DESCRIPTION": [
+      "deprecated"
+    ]
+  },
+  "Corruption": {
+    "NAME": "Korupsi",
+    "DESCRIPTION": "Harga Kemampuan 0. NL Kartu Kemampuan Hangus setelah dimainkan."
+  },
+  "Creative AI": {
+    "NAME": "AI Kreatif",
+    "DESCRIPTION": "Pada awal setiap giliran, tambah sebuah kartu Kekuatan acak ke tangan."
+  },
+  "Crippling Poison": {
+    "NAME": "Awan Pelumpuh",
+    "DESCRIPTION": "Terapkan !M! Racun dan 2 Lemah ke SEMUA musuh. NL Hangus."
+  },
+  "Dagger Spray": {
+    "NAME": "Semburan Pisau",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh dua kali."
+  },
+  "Dagger Throw": {
+    "NAME": "Lemparan Pisau",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil 1 kartu. NL Buang 1 kartu."
+  },
+  "Dark Embrace": {
+    "NAME": "Rangkulan Kegelapan",
+    "DESCRIPTION": "Ketika sebuah kartu Dihanguskan, NL Ambil 1 kartu."
+  },
+  "Dark Shackles": {
+    "NAME": "Rantai Kegelapan",
+    "DESCRIPTION": "Musuh kehilangans !M! Daya hingga akhir giliran ini. NL Hangus."
+  },
+  "Darkness": {
+    "NAME": "Kegelapan",
+    "DESCRIPTION": "Salur !M! Hitam.",
+    "UPGRADE_DESCRIPTION": "Salur !M! Hitam. NL Aktifkan kemampuan pasif dari semua Orb Hitam."
+  },
+  "Dash": {
+    "NAME": "Lari",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Beri !D! damage."
+  },
+  "Dazed": {
+    "NAME": "Lamunan",
+    "DESCRIPTION": "Statis. NL Ethereal."
+  },
+  "Deadly Poison": {
+    "NAME": "Racun Mematikan",
+    "DESCRIPTION": "Terapkan !M! Racun."
+  },
+  "Decay": {
+    "NAME": "Membusuk",
+    "DESCRIPTION": "Statis. NL Pada akhir giliran, dapatkan 2 damage."
+  },
+  "Deep Breath": {
+    "NAME": "Napas Dalam",
+    "DESCRIPTION": "Kocok dek buang ke dek ambil. NL Ambil !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Kocok dek buang ke dek ambil. NL Ambil !M! kartu."
+  },
+  "Defend_B": {
+    "NAME": "Bertahan",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Defend_G": {
+    "NAME": "Bertahan",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Defend_R": {
+    "NAME": "Bertahan",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Deflect": {
+    "NAME": "Pantul",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Defragment": {
+    "NAME": "Defragmentasi",
+    "DESCRIPTION": "Dapatkan !M! Fokus."
+  },
+  "Demon Form": {
+    "NAME": "Wujud Iblis",
+    "DESCRIPTION": "Pada awal setiap giliran, Dapatkan !M! Daya."
+  },
+  "Die Die Die": {
+    "NAME": "Die Die Die",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Hangus."
+  },
+  "Disarm": {
+    "NAME": "Melucuti",
+    "DESCRIPTION": "Musuh kehilangan !M! Daya. NL Hangus."
+  },
+  "Distraction": {
+    "NAME": "Pengalihan",
+    "DESCRIPTION": "Tambah sebuah Kemampuan acak ke tangan. NL Harganya 0 giliran ini. NL Hangus."
+  },
+  "Dodge and Roll": {
+    "NAME": "Hindar dan Guling",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Giliran selanjutnya dapatkan !B! Blok."
+  },
+  "Doom and Gloom": {
+    "NAME": "Malang dan Suram",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Salur !M! Hitam."
+  },
+  "Doppelganger": {
+    "NAME": "Kembaran",
+    "DESCRIPTION": "Giliran selanjutnya, ambil X kartu dan dapatkan X [G]. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Giliran selanjutnya, ambil X+1 kartu dan dapatkan X+1 [G]. NL Hangus."
+  },
+  "Double Energy": {
+    "NAME": "Energi Ganda",
+    "DESCRIPTION": "Gandakan Energimu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Gandakan Energimu."
+  },
+  "Double Tap": {
+    "NAME": "Tepukan Ganda",
+    "DESCRIPTION": "Pada giliran ini, Serangan selanjutnya dimainkan dua kali.",
+    "UPGRADE_DESCRIPTION": "Pada giliran ini, !M! Serangan selanjutnya dimainkan dua kali."
+  },
+  "Doubt": {
+    "NAME": "Keraguan",
+    "DESCRIPTION": "Statis. NL Pada akhir giliran, dapatkan 1 Lemah."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Masuk Dramatis",
+    "DESCRIPTION": "Permulaan. NL Beri !D! damage ke SEMUA musuh. NL Hangus."
+  },
+  "Dropkick": {
+    "NAME": "Tendang Jatuh",
+    "DESCRIPTION": "Beri !D! damage. NL Jika musuh Rentan, NL Dapatkan [R]  dan NL ambil 1 kartu."
+  },
+  "Dual Wield": {
+    "NAME": "Dua Senjata",
+    "DESCRIPTION": "Buat sebuah salinan dari sebuah kartu Serangan atau Kekuatan di tanganmu.",
+    "UPGRADE_DESCRIPTION": "Buat 2 salinan dari sebuah kartu Serangan atau Kekuatan di tanganmu."
+  },
+  "Dualcast": {
+    "NAME": "Mantra Ganda",
+    "DESCRIPTION": "Bangkit Orb selanjutnya 2 kali."
+  },
+  "Echo Form": {
+    "NAME": "Wujud Gema",
+    "DESCRIPTION": "Kartu pertama yang kamu mainkan tiap giliran dimainkan dua kali. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Kartu pertama yang kamu mainkan tiap giliran dimainkan dua kali."
+  },
+  "Electrodynamics": {
+    "NAME": "Elektrodinamika",
+    "DESCRIPTION": "Petir sekarang mengenai SEMUA musuh. NL Salur !M! Petir.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Endless Agony": {
+    "NAME": "Penderitaan Abadi",
+    "DESCRIPTION": "Ketika kamu ambil kartu ini, tambah salinannya ke tangan. NL Beri !D! damage. NL Hangus."
+  },
+  "Energy Pulse": {
+    "NAME": "Detak Energi",
+    "DESCRIPTION": "Dapatkan Blok sama dengan Energimu.",
+    "UPGRADE_DESCRIPTION": "Dapatkan Blok sama dengan dua kali Energimu."
+  },
+  "Enlightenment": {
+    "NAME": "Pencerahan",
+    "DESCRIPTION": "Kurangi harga kartu di tangan menjadi 1 giliran ini.",
+    "UPGRADE_DESCRIPTION": "Kurangi harga kartu di tangan menjadi 1 pertarungan ini."
+  },
+  "Entrench": {
+    "NAME": "Parit",
+    "DESCRIPTION": "Gandakan Blok milikmu saat ini.",
+    "UPGRADE_DESCRIPTION": "Gandakan Blok milikmu saat ini."
+  },
+  "Envenom": {
+    "NAME": "Lapis Racun",
+    "DESCRIPTION": "Ketika sebuah Serangan memberi damage yang tidak tertahan Blok, terapkan 1 Racun."
+  },
+  "Escape Plan": {
+    "NAME": "Rencana Kabur",
+    "DESCRIPTION": "Ambil 1 kartu. NL Jika kartunya sebuah Kemampuan, dapatkan !B! Blok."
+  },
+  "Eviscerate": {
+    "NAME": "Ledakan Perut",
+    "DESCRIPTION": "Harga berkurang 1 [G] NL untuk setiap kartu yang dibuang giliran ini. NL Beri !D! damage tiga kali."
+  },
+  "Evolve": {
+    "NAME": "Evolusi",
+    "DESCRIPTION": "Ketika kamu ambil sebuah Status, ambil !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Ketika kamu ambil sebuah Status, ambil !M! kartu."
+  },
+  "Exhume": {
+    "NAME": "Gali Kubur",
+    "DESCRIPTION": "Letakkan sebuah kartu dari dek hangus ke tangan. NL Hangus."
+  },
+  "Expertise": {
+    "NAME": "Kepiawaian",
+    "DESCRIPTION": "Ambil kartu hingga kamu mempunyai !M! di tangan."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Beri !D! damage. Jika kamu memainkan kurang dari !M! kartu giliran ini, ambil 1 kartu.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " kartu dimainkan.)",
+      " kartu dimainkan.)"
+    ]
+  },
+  "Feed": {
+    "NAME": "Makan",
+    "DESCRIPTION": "Beri !D! damage. NL Jika ini membunuh musuh non-minion, dapatkan !M! HP Maks. Hangus."
+  },
+  "Feel No Pain": {
+    "NAME": "Tidak Merasa Sakit",
+    "DESCRIPTION": "Ketika sebuah kartu Hangus, NL Dapatkan !M! Blok."
+  },
+  "Fiend Fire": {
+    "NAME": "Api Iblis",
+    "DESCRIPTION": "Hangus tanganmu. NL Beri !D! damage untuk setiap kartu yang Dihanguskan. NL Hangus."
+  },
+  "Finesse": {
+    "NAME": "Kemahiran",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Ambil 1 kartu."
+  },
+  "Finisher": {
+    "NAME": "Penutup",
+    "DESCRIPTION": "Beri !D! damage untuk setiap Serangan yang dimainkan giliran ini.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " Serangan dimainkan.)",
+      " Serangan dimainkan.)"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Napas Api",
+    "DESCRIPTION": "Pada akhir giliran, untuk setiap Serangan yang dimainkan giliran ini beri 1 damage ke SEMUA musuh."
+  },
+  "Fission": {
+    "NAME": "Fisi",
+    "DESCRIPTION": "Hapus SEMUA Orb, dapatkan [B] dan ambil !M! kartu untuk setiap Orb yang dihapus. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Bangkit SEMUA Orb, dapatkan [B] dan ambil !M! kartu untuk setiap Orb yang Bangkit. NL Hangus."
+  },
+  "Flame Barrier": {
+    "NAME": "Tembok Api",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Ketika kamu diserang giliran ini, Beri !M! damage ke penyerang. "
+  },
+  "Flash of Steel": {
+    "NAME": "Kilat Baja",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil 1 kartu."
+  },
+  "Flechettes": {
+    "NAME": "Flechette",
+    "DESCRIPTION": "Beri !D! damage untuk setiap Kemampuan di tangan.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (kamu punya ",
+      " Kemampuan).",
+      " Kemampuan)."
+    ]
+  },
+  "Flex": {
+    "NAME": "Peregangan",
+    "DESCRIPTION": "Dapatkan !M! Daya. NL Pada akhir giliran, kehilangan !M! Daya."
+  },
+  "Flux Capacitor": {
+    "NAME": "Aliran Kapasitor",
+    "DESCRIPTION": "Ganti SEMUA Orb yang Disalurkan menjadi Plasma. NL Hangus."
+  },
+  "Flying Knee": {
+    "NAME": "Tendangan Terbang",
+    "DESCRIPTION": "Beri !D! damage. NL Giliran selanjutnya dapatkan [G]."
+  },
+  "Footwork": {
+    "NAME": "Gerak Kaki",
+    "DESCRIPTION": "Dapatkan !M! Ketangkasan."
+  },
+  "Force Field": {
+    "NAME": "Medan Gaya",
+    "DESCRIPTION": "Harga berkurang 1 [B] setiap kartu Kekuatan yang dimainkan pertarungan ini. NL Dapatkan !B! Blok."
+  },
+  "Fusion": {
+    "NAME": "Fusi",
+    "DESCRIPTION": "Salur !M! Plasma."
+  },
+  "Gash": {
+    "NAME": "Cakar",
+    "DESCRIPTION": "Beri !D! damage. NL Semua kartu Claw memberi !M! tambahan damage pertarungan ini."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Algoritma Genetik",
+    "DESCRIPTION": "Dapatkan !B! Blok. Setelah dimainkan, Blok kartu naik !M! secara permanen. NL Hangus."
+  },
+  "Ghostly": {
+    "NAME": "Arwah",
+    "DESCRIPTION": "Dapatkan 1 Kegaiban. NL Hangus. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Dapatkan 1 Kegaiban. NL Hangus."
+  },
+  "Ghostly Armor": {
+    "NAME": "Zirah Arwah",
+    "DESCRIPTION": "Ethereal. NL Dapatkan !B! Blok."
+  },
+  "Glacier": {
+    "NAME": "Gletser",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Salur !M! Beku.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Salur !M! Beku."
+  },
+  "Glass Knife": {
+    "NAME": "Pisau Kaca",
+    "DESCRIPTION": "Beri !D! damage dua kali. Damage kartu ini berkurang 2 dalam pertarungan ini."
+  },
+  "Go for the Eyes": {
+    "NAME": "Sasar Mata",
+    "DESCRIPTION": "Beri !D! damage. Jika musuh berniat untuk menyerang, Terapkan !M! Lemah."
+  },
+  "Good Instincts": {
+    "NAME": "Insting Bagus",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Grand Finale": {
+    "NAME": "Penutup Agung",
+    "DESCRIPTION": "Hanya bisa dimainkan jika tidak ada kartu di dek ambil. NL Beri !D! damage ke SEMUA musuh.",
+    "UPGRADE_DESCRIPTION": "dek ambil NL harus #rEmpty."
+  },
+  "Havoc": {
+    "NAME": "Malapetaka",
+    "DESCRIPTION": "Mainkan kartu paling atas dari dek ambil dan buat Hangus."
+  },
+  "Headbutt": {
+    "NAME": "Sundul",
+    "DESCRIPTION": "Beri !D! damage. NL Letakkan sebuah kartu dari dek buang ke atas dek ambil."
+  },
+  "Heatsinks": {
+    "NAME": "Penyerap Panas",
+    "DESCRIPTION": "Ketika kamu memainkan sebuah kartu Kekuatan, ambil !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Ketika kamu memainkan sebuah kartu Kekuatan, ambil !M! kartu."
+  },
+  "Heavy Blade": {
+    "NAME": "Pedang Berat",
+    "DESCRIPTION": "Beri !D! damage. NL Daya memengaruhi Heavy Blade !M! kali.",
+    "UPGRADE_DESCRIPTION": "Beri !D! damage. NL Daya memengaruhi Heavy Blade !M! kali."
+  },
+  "Heel Hook": {
+    "NAME": "Mengait Tumit",
+    "DESCRIPTION": "Beri !D! damage. NL Jika musuh Lemah, NL Dapatkan [G] dan NL ambil 1 kartu."
+  },
+  "Hello World": {
+    "NAME": "Hello World",
+    "DESCRIPTION": "Pada awal giliran, tambah sebuah kartu Biasa acak ke tangan.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Pada awal giliran, tambah sebuah kartu Biasa acak ke tangan."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemokinesis",
+    "DESCRIPTION": "Kehilangan !M! HP. NL Beri !D! damage."
+  },
+  "Hide": {
+    "NAME": "Sembunyi",
+    "DESCRIPTION": "Kamu tidak bisa kehilangan HP hingga awal giliran selanjutnya. NL Hangus."
+  },
+  "Hologram": {
+    "NAME": "Hologram",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Kembalikan sebuah kartu dari dek buang ke tangan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Kembalikan sebuah kartu dari dek buang ke tangan."
+  },
+  "Hyperbeam": {
+    "NAME": "Hyperbeam",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Kehilangan !M! Fokus."
+  },
+  "Immolate": {
+    "NAME": "Api Pengorbanan",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Tambah sebuah Lava ke dek buang."
+  },
+  "Impervious": {
+    "NAME": "Tahan Tembus",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Hangus."
+  },
+  "Infernal Blade": {
+    "NAME": "Pedang Neraka",
+    "DESCRIPTION": "Tambah sebuah Serangan acak ke tangan. NL Harganya 0 giliran ini. NL Hangus."
+  },
+  "Infinite Blades": {
+    "NAME": "Pedang Tak Hingga",
+    "DESCRIPTION": "Pada awal giliran, tambah sebuah Shiv ke tangan.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Pada awal giliran, tambah sebuah Shiv ke tangan."
+  },
+  "Inflame": {
+    "NAME": "Berkobar",
+    "DESCRIPTION": "Dapatkan !M! Daya."
+  },
+  "Injury": {
+    "NAME": "Cedera",
+    "DESCRIPTION": "Statis."
+  },
+  "Intimidate": {
+    "NAME": "Intimidasi",
+    "DESCRIPTION": "Terapkan !M! Lemah ke SEMUA musuh. NL Hangus."
+  },
+  "Iron Wave": {
+    "NAME": "Gelombang Besi",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Beri !D! damage."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Kehilangan 3 HP. NL Dapatkan !M! Daya."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Orang Serba Tahu",
+    "DESCRIPTION": "Tambah !M! kartu tanpa warna acak ke tangan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tambah !M! kartu tanpa warna acak ke tangan. NL Hangus."
+  },
+  "Juggernaut": {
+    "NAME": "Aura Hebat",
+    "DESCRIPTION": "Ketika kamu mendapatkan Blok, beri !M! damage ke sebuah musuh acak."
+  },
+  "Leap": {
+    "NAME": "Lompatan",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Leg Sweep": {
+    "NAME": "Sapu Kaki",
+    "DESCRIPTION": "Terapkan !M! Lemah. NL Dapatkan !B! Blok."
+  },
+  "Limit Break": {
+    "NAME": "Hancurkan Batas",
+    "DESCRIPTION": "Gandakan Daya. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Gandakan Daya."
+  },
+  "Lockon": {
+    "NAME": "Tepat Sasaran",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Sasar."
+  },
+  "Loop": {
+    "NAME": "Putar Ulang",
+    "DESCRIPTION": "Pada awal giliran, gunakan efek pasif dari Orb selanjutnya.",
+    "UPGRADE_DESCRIPTION": "Pada awal giliran, gunakan efek pasif dari Orb selanjutnya !M! kali."
+  },
+  "Machine Learning": {
+    "NAME": "Pembelajaran Mesin",
+    "DESCRIPTION": "Ambil !M! Kartu tambahan pada awal tiap giliran.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Ambil !M! Kartu tambahan pada awal tiap giliran."
+  },
+  "Madness": {
+    "NAME": "Kegilaan",
+    "DESCRIPTION": "Sebuah kartu acak di tangan berharga 0 hingga akhir pertarungan. NL Hangus."
+  },
+  "Magnetism": {
+    "NAME": "Daya Tarik",
+    "DESCRIPTION": "Pada awal tiap giliran, tambah sebuah kartu tanpa warna acak ke tangan."
+  },
+  "Malaise": {
+    "NAME": "Kegelisahan",
+    "DESCRIPTION": "Musuh kehilangan X Daya. Terapkan X Lemah. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Musuh kehilangan X+1 Daya. Terapkan X+1 Lemah. NL Hangus."
+  },
+  "Master of Strategy": {
+    "NAME": "Ahli Strategi",
+    "DESCRIPTION": "Ambil !M! kartu. NL Hangus."
+  },
+  "Masterful Stab": {
+    "NAME": "Tusukan Ahli",
+    "DESCRIPTION": "Beri !D! damage. NL Setiap kamu menerima damage, tingkatkan harga kartu ini sebanyak 1.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Mayhem": {
+    "NAME": "Kisruh",
+    "DESCRIPTION": "Pada awal giliran, mainkan kartu paling atas dari dek ambil."
+  },
+  "Melter": {
+    "NAME": "Pencair",
+    "DESCRIPTION": "Hapus semua Blok dari sebuah musuh. NL Beri !D! damage."
+  },
+  "Metallicize": {
+    "NAME": "Kuat Logam",
+    "DESCRIPTION": "Pada akhir giliran, Dapatkan !M! Blok."
+  },
+  "Metamorphosis": {
+    "NAME": "Metamorfosis",
+    "DESCRIPTION": "Tambah !M! Serangan acak ke dek ambil. Semuanya berharga 0 pertarungan ini. NL Hangus."
+  },
+  "Meteor Strike": {
+    "NAME": "Serang Meteor",
+    "DESCRIPTION": "Beri !D! damage. NL Salur !M! Plasma."
+  },
+  "Mind Blast": {
+    "NAME": "Ledakan Pikiran",
+    "DESCRIPTION": "Permulaan. NL Beri damage sama dengan jumlah kartu di dek ambil.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Beri !D! damage.)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "Mantra Ulang",
+    "DESCRIPTION": "Bangkit Orb selanjutnya X kali.",
+    "UPGRADE_DESCRIPTION": "Bangkit Orb selanjutnya X+1 kali."
+  },
+  "Necronomicurse": {
+    "NAME": "Necronomicurse",
+    "DESCRIPTION": "Statis. NL Kamu tidak bisa kabur dari Kutukan ini."
+  },
+  "Neutralize": {
+    "NAME": "Menetralkan",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Lemah."
+  },
+  "Night Terror": {
+    "NAME": "Mimpi Buruk",
+    "DESCRIPTION": "Pilih sebuah kartu. NL Giliran selanjutnya, tambah !M! salinan dari kartu itu ke tangan. Hangus.",
+    "EXTENDED_DESCRIPTION": [
+      "Aku hanya bisa menggunakan NL ",
+      " NL sekali tiap giliran."
+    ]
+  },
+  "Normality": {
+    "NAME": "Normalitas",
+    "DESCRIPTION": "Statis. NL Kamu tidak bisa memainkan lebih dari 3 kartu giliran ini.",
+    "EXTENDED_DESCRIPTION": [
+      "Aku hanya bisa memainkan hingga NL #r3 kartu giliran ini.",
+      "Statis. NL Kamu tidak bisa memainkan lebih dari ",
+      " kartu tiap giliran.",
+      " kartu tiap giliran. NL Kamu sudah memainkan ",
+      " kartu giliran ini.",
+      " kartu giliran ini."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Uap Berbahaya",
+    "DESCRIPTION": "Pada awal giliran, terapkan !M! Racun ke SEMUA musuh."
+  },
+  "Offering": {
+    "NAME": "Sesajen",
+    "DESCRIPTION": "Kehilangan 6 HP. NL Dapatkan [R] [R]. NL Ambil !M! kartu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Kehilangan 6 HP. NL Dapatkan [R] [R]. NL Ambil !M! kartu. NL Hangus."
+  },
+  "Outmaneuver": {
+    "NAME": "Mengakali",
+    "DESCRIPTION": "Giliran selanjutnya NL dapatkan [G] [G].",
+    "UPGRADE_DESCRIPTION": "Giliran selanjutnya NL dapatkan [G] [G] [G]."
+  },
+  "Pain": {
+    "NAME": "Penderitaan",
+    "DESCRIPTION": "Statis. NL Ketika di tangan, NL kehilangan 1 HP ketika kartu lain dimainkan."
+  },
+  "Panacea": {
+    "NAME": "Obat Mujarab",
+    "DESCRIPTION": "Dapatkan !M! Artefak. NL Hangus."
+  },
+  "Panache": {
+    "NAME": "Panache",
+    "DESCRIPTION": "Setiap kali kamu memainkan 5 kartu dalam sebuah giliran, beri !M! damage ke SEMUA musuh."
+  },
+  "Parasite": {
+    "NAME": "Parasit",
+    "DESCRIPTION": "Statis. NL Jika ditransformasi atau dihapus dari dek, kehilangan 3 HP Maks"
+  },
+  "Perfected Strike": {
+    "NAME": "Serang Sempurna",
+    "DESCRIPTION": "Beri !D! damage. NL Berikan tambahan +2 damage dari SEMUA kartu dengan kata kunci \"Serang\".",
+    "UPGRADE_DESCRIPTION": "Beri !D! damage. NL Berikan tambahan +3 damage dari SEMUA kartu dengan kata kunci \"Serang\"."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Arwah Pembunuh",
+    "DESCRIPTION": "Pada giliran selanjutnya, damage Serangan digandakan."
+  },
+  "PiercingWail": {
+    "NAME": "Raungan Tajam",
+    "DESCRIPTION": "SEMUA musuh kehilangan !M! Daya untuk 1 giliran. NL Hangus."
+  },
+  "Poisoned Stab": {
+    "NAME": "Tusukan Racun",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Racun."
+  },
+  "Pommel Strike": {
+    "NAME": "Serang Gagang",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Beri !D! damage. NL Ambil !M! kartu."
+  },
+  "Power Through": {
+    "NAME": "Kukuh Maju",
+    "DESCRIPTION": "Tambah 2 Luka ke tangan. NL Dapatkan !B! Blok."
+  },
+  "Predator": {
+    "NAME": "Predator",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil 2 kartu lebih giliran selanjutnya."
+  },
+  "Prepared": {
+    "NAME": "Persiapan",
+    "DESCRIPTION": "Ambil !M! kartu. NL Buang !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Ambil !M! kartu. NL Buang !M! kartu."
+  },
+  "Pummel": {
+    "NAME": "Hantaman Beruntun",
+    "DESCRIPTION": "Beri !D! damage !M! kali. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Beri !D! damage !M! kali. NL Hangus."
+  },
+  "Purity": {
+    "NAME": "Kemurnian",
+    "DESCRIPTION": "Buat Hangus hingga !M! kartu di tangan. NL Hangus."
+  },
+  "Quick Slash": {
+    "NAME": "Tebas Cepat",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil 1 kartu."
+  },
+  "Rage": {
+    "NAME": "Geram",
+    "DESCRIPTION": "Ketika kamu memainkan sebuah Serangan giliran ini, dapatkan !M! Blok."
+  },
+  "Rainbow": {
+    "NAME": "Pelangi",
+    "DESCRIPTION": "Salur 1 Petir, 1 Beku, dan 1 Hitam. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Salur 1 Petir, 1 Beku, dan 1 Hitam."
+  },
+  "Rampage": {
+    "NAME": "Murka",
+    "DESCRIPTION": "Beri !D! damage. NL Setiap kali kartu ini dimainkan, tingkatkan damage sebanyak !M! dalam pertarungan ini."
+  },
+  "Reaper": {
+    "NAME": "Dewa Kematian",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. Sembuhkan sebanyak damage yang tidak tertahan Blok. NL Hangus."
+  },
+  "Reboot": {
+    "NAME": "Mulai Ulang",
+    "DESCRIPTION": "Kocok semua kartu ke dek ambil. NL Ambil !M! kartu. NL Hangus."
+  },
+  "Rebound": {
+    "NAME": "Pantul Kembali",
+    "DESCRIPTION": "Beri !D! damage. NL Letakkan kartu selanjutnya yang kamu mainkan giliran ini ke atas dek ambil."
+  },
+  "Reckless Charge": {
+    "NAME": "Serbu Nekat",
+    "DESCRIPTION": "Beri !D! damage. NL Kocok sebuah Lamunan ke dek ambil."
+  },
+  "Recycle": {
+    "NAME": "Daur Ulang",
+    "DESCRIPTION": "Hangus sebuah kartu. NL Dapatkan [B] sebesar harga kartunya."
+  },
+  "Redo": {
+    "NAME": "Rekursi",
+    "DESCRIPTION": "Bangkit Orb selanjutnya. NL Salur Orb yang baru saja Bangkit."
+  },
+  "Reflex": {
+    "NAME": "Refleks",
+    "DESCRIPTION": "Statis. NL Jika kartu ini dibuang dari tangan, ambil !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Statis. NL Jika kartu ini dibuang dari tangan, ambil !M! kartu.",
+    "EXTENDED_DESCRIPTION": [
+      "Aku tidak bisa memainkan kartu ini."
+    ]
+  },
+  "Regret": {
+    "NAME": "Penyesalan",
+    "DESCRIPTION": "Statis. NL Pada akhir giliran, kehilangan HP setara dengan jumlah kartu di tangan."
+  },
+  "Reinforced Body": {
+    "NAME": "Perkuat Tubuh",
+    "DESCRIPTION": "Dapatkan !B! Blok X kali."
+  },
+  "Reprogram": {
+    "NAME": "Program Ulang",
+    "DESCRIPTION": "Lihat !M! kartu atas dari dek ambil. Kamu boleh buang kartu tersebut.",
+    "UPGRADE_DESCRIPTION": "Lihat !M! kartu atas dari dek ambil. Kamu boleh buang kartu tersebut."
+  },
+  "Riddle With Holes": {
+    "NAME": "Penuh Lubang",
+    "DESCRIPTION": "Beri !D! damage 5 kali."
+  },
+  "Rip and Tear": {
+    "NAME": "Cabik dan Robek",
+    "DESCRIPTION": "Beri !D! damage ke sebuah musuh acak !M! kali."
+  },
+  "Rupture": {
+    "NAME": "Meledak Pecah",
+    "DESCRIPTION": "Ketika kamu kehilangan HP dari sebuah kartu, NL dapatkan 1 Daya."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sifat Sadis",
+    "DESCRIPTION": "Ketika kamu Terapkan sebuah Debuff ke sebuah musuh, mereka mendapatkan !M! damage."
+  },
+  "Scrape": {
+    "NAME": "Menggores",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil !M! kartu. NL Buang SEMUA kartu yang diambil dimana harganya tidak 0."
+  },
+  "Searing Blow": {
+    "NAME": "Pukulan Berapi",
+    "DESCRIPTION": "Beri !D! damage. NL Dapat Ditiingkatkan berapa kalipun."
+  },
+  "Second Wind": {
+    "NAME": "Napas Baru",
+    "DESCRIPTION": "Hangus SEMUA kartu bukan Serangan di tangan dan dapatkan !B! Blok masing-masing."
+  },
+  "Secret Technique": {
+    "NAME": "Teknik Rahasia",
+    "DESCRIPTION": "Pilih sebuah Kemampuan dari dek ambil dan letakkan ke tangan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Pilih sebuah Kemampuan dari dek ambil dan letakkan ke tangan.",
+    "EXTENDED_DESCRIPTION": [
+      "Tidak ada Kemampuans NL di dek ambil."
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "Senjata Rahasia",
+    "DESCRIPTION": "Pilih sebuah Serangan dari dek ambil dan letakkan ke tangan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Pilih sebuah Serangan dari dek ambil dan letakkan ke tangan.",
+    "EXTENDED_DESCRIPTION": [
+      "Tidak ada Serangan NL di dek ambil."
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "Pandangan Merah",
+    "DESCRIPTION": "Dapatkan [R] [R]. NL Hangus."
+  },
+  "Seek": {
+    "NAME": "Pencarian",
+    "DESCRIPTION": "Pilih !M! kartu dari dek ambil dan letakkan ke tangan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Pilih !M! kartu dari dek ambil dan letakkan ke tangan. NL Hangus."
+  },
+  "Self Repair": {
+    "NAME": "Reparasi Diri",
+    "DESCRIPTION": "Pada akhir pertarungan, sembuhkan !M! HP."
+  },
+  "Sentinel": {
+    "NAME": "Penjaga",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Jika kartu ini Dihanguskan, NL Dapatkan [R] [R].",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Jika kartu ini Dihanguskan, NL Dapatkan [R] [R] [R]."
+  },
+  "Setup": {
+    "NAME": "Persiapan",
+    "DESCRIPTION": "Letakkan sebuah kartu dari tangan ke atas dek ambil. NL Harganya 0 hingga kartu itu dimainkan."
+  },
+  "Sever Soul": {
+    "NAME": "Memutus Jiwa",
+    "DESCRIPTION": "Hangus SEMUA kartu bukan Serangan di tangan. NL Beri !D! damage."
+  },
+  "Shame": {
+    "NAME": "Malu",
+    "DESCRIPTION": "Statis. NL Pada akhir giliran, dapatkan 1 Rapuh."
+  },
+  "Shiv": {
+    "NAME": "Shiv",
+    "DESCRIPTION": "Beri !D! damage. NL Hangus."
+  },
+  "Shockwave": {
+    "NAME": "Gelombang Kejut",
+    "DESCRIPTION": "Terapkan !M! Lemah dan Rentan ke SEMUA musuh. NL Hangus."
+  },
+  "Shrug It Off": {
+    "NAME": "Abaikan Saja",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Ambil 1 kartu."
+  },
+  "Skewer": {
+    "NAME": "Tusukan",
+    "DESCRIPTION": "Beri !D! damage X kali."
+  },
+  "Skim": {
+    "NAME": "Menyaring",
+    "DESCRIPTION": "Ambil !M! kartu."
+  },
+  "Slice": {
+    "NAME": "Sayat",
+    "DESCRIPTION": "Beri !D! damage."
+  },
+  "Slimed": {
+    "NAME": "Berlendir",
+    "DESCRIPTION": "Hangus."
+  },
+  "Spot Weakness": {
+    "NAME": "Cari Kelemahan",
+    "DESCRIPTION": "Jika sebuah musuh berniat untuk menyerang, dapatkan !M! Daya."
+  },
+  "Stack": {
+    "NAME": "Tumpuk",
+    "DESCRIPTION": "Dapatkan Blok sama dengan jumlah kartu di dek buang.",
+    "UPGRADE_DESCRIPTION": "Dapatkan Blok sama dengan jumlah kartu di dek buang +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Dapatkan !B! Blok.)"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "Lepas Listrik",
+    "DESCRIPTION": "Ketika kamu mendapatkan damage serangan, Salur !M! Petir.",
+    "UPGRADE_DESCRIPTION": "Ketika kamu mendapatkan damage serangan, Salur !M! Petir."
+  },
+  "Steam": {
+    "NAME": "Tembok Kabut",
+    "DESCRIPTION": "Dapatkan !B! Blok. Blok kartu ini berkurang 1 pertarungan ini."
+  },
+  "Steam Power": {
+    "NAME": "Overclock",
+    "DESCRIPTION": "Ambil !M! kartu. NL Tambah sebuah Lava ke dek buang."
+  },
+  "Storm": {
+    "NAME": "Badai",
+    "DESCRIPTION": "Ketika kamu memainkan sebuah Kekuatan, Salur 1 Petir.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Ketika kamu memainkan sebuah Kekuatan, Salur 1 Petir."
+  },
+  "Storm of Steel": {
+    "NAME": "Badai Baja",
+    "DESCRIPTION": "Buang tangan. NL Tambah 1 Shiv ke tangan setiap kartu yang dibuang.",
+    "UPGRADE_DESCRIPTION": "Buang tangan. NL Tambah 1 Shiv yang ditingkatkan ke tangan setiap kartu yang dibuang."
+  },
+  "Streamline": {
+    "NAME": "Penyingkatan",
+    "DESCRIPTION": "Beri !D! damage. NL Setelah kartu ini dimainkan, kurangi harganya !M! dalam pertarungan ini."
+  },
+  "Strike_B": {
+    "NAME": "Serang",
+    "DESCRIPTION": "Beri !D! damage."
+  },
+  "Strike_G": {
+    "NAME": "Serang",
+    "DESCRIPTION": "Beri !D! damage."
+  },
+  "Strike_R": {
+    "NAME": "Serang",
+    "DESCRIPTION": "Beri !D! damage."
+  },
+  "Sucker Punch": {
+    "NAME": "Pukulan Menipu",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Lemah."
+  },
+  "Sunder": {
+    "NAME": "Pisah",
+    "DESCRIPTION": "Beri !D! damage. NL Jika kartu ini membunuh musuh, dapatkan [B] [B] [B]."
+  },
+  "Survivor": {
+    "NAME": "Bertahan Hidup",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Buang sebuah kartu."
+  },
+  "Sweeping Beam": {
+    "NAME": "Sapuan Sinar",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh. NL Ambil !M! kartu."
+  },
+  "Swift Strike": {
+    "NAME": "Serang Gesit",
+    "DESCRIPTION": "Beri !D! damage."
+  },
+  "Sword Boomerang": {
+    "NAME": "Pedang Bumerang",
+    "DESCRIPTION": "Beri !D! damage ke sebuah musuh acak !M! kali."
+  },
+  "Tactician": {
+    "NAME": "Ahli Siasat",
+    "DESCRIPTION": "Statis. NL Jika kartu ini dibuang dari tangan, dapatkan [G].",
+    "UPGRADE_DESCRIPTION": "Statis. NL Jika kartu ini dibuang dari tangan, dapatkan [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Aku tidak bisa memainkan kartu ini."
+    ]
+  },
+  "Tempest": {
+    "NAME": "Halilintar",
+    "DESCRIPTION": "Salur X Petir. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Salur X+1 Petir. NL Hangus."
+  },
+  "Terror": {
+    "NAME": "Teror",
+    "DESCRIPTION": "Terapkan 99 Rentan. NL Hangus."
+  },
+  "The Bomb": {
+    "NAME": "Bom",
+    "DESCRIPTION": "Pada akhir 3 giliran, beri !M! damage ke SEMUA musuh."
+  },
+  "Thinking Ahead": {
+    "NAME": "Pikir ke Depan",
+    "DESCRIPTION": "Ambil 2 kartu. NL Letakkan sebuah kartu dari tangan ke atas dek ambil. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Ambil 2 kartu. NL Letakkan sebuah kartu dari tangan ke atas dek ambil."
+  },
+  "Thunder Strike": {
+    "NAME": "Serang Petir",
+    "DESCRIPTION": "Beri !D! damage ke sebuah musuh acak untuk setiap Petir yang Disalurkan dalam pertarungan ini.",
+    "EXTENDED_DESCRIPTION": [
+      " (!M! Petir Disalurkan.)"
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Guntur",
+    "DESCRIPTION": "Beri !D! damage dan terapkan 1 Rentan ke SEMUA musuh."
+  },
+  "Tools of the Trade": {
+    "NAME": "Alat Khusus",
+    "DESCRIPTION": "Pada awal giliran, ambil 1 kartu dan buang 1 kartu."
+  },
+  "Transmutation": {
+    "NAME": "Transmutasi",
+    "DESCRIPTION": "Tambah X kartu tanpa warna acak ke tangan. Harganya 0 giliran ini. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tambah X kartu tanpa warna acak yang ditingkatkan ke tangan. Harganya 0 giliran ini. NL Hangus."
+  },
+  "Trip": {
+    "NAME": "Terpeleset",
+    "DESCRIPTION": "Terapkan !M! Rentan.",
+    "UPGRADE_DESCRIPTION": "Terapkan !M! Rentan ke SEMUA musuh."
+  },
+  "True Grit": {
+    "NAME": "Ketabahan Sejati",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Hangus sebuah kartu acak di tangan.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Hangus sebuah kartu di tangan."
+  },
+  "Turbo": {
+    "NAME": "TURBO",
+    "DESCRIPTION": "Dapatkan [B] [B]. NL Tambah sebuah Hampa ke dek buang.",
+    "UPGRADE_DESCRIPTION": "Dapatkan [B] [B] [B]. NL Tambah sebuah Hampa ke dek buang."
+  },
+  "Twin Strike": {
+    "NAME": "Serang Kembar",
+    "DESCRIPTION": "Beri !D! damage dua kali."
+  },
+  "Underhanded Strike": {
+    "NAME": "Serang Licik",
+    "DESCRIPTION": "Beri !D! damage. NL Jika kamu telah membuang sebuah kartu giliran ini, NL dapatkan [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Aku tidak bisa memainkan kartu ini."
+    ]
+  },
+  "Undo": {
+    "NAME": "Keseimbangan",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Tahan tanganmu giliran ini."
+  },
+  "Unload": {
+    "NAME": "Buang Beban",
+    "DESCRIPTION": "Beri !D! damage. NL Buang SEMUA kartu bukan Serangan."
+  },
+  "Uppercut": {
+    "NAME": "Tinju Atas",
+    "DESCRIPTION": "Beri !D! damage. NL Terapkan !M! Lemah. NL Terapkan !M! Rentan."
+  },
+  "Venomology": {
+    "NAME": "Alkemis",
+    "DESCRIPTION": "Memperoleh sebuah ramuan acak. NL Hangus."
+  },
+  "Void": {
+    "NAME": "Hampa",
+    "DESCRIPTION": "Statis. NL Ketika kartu ini diambil, kehilangan 1 Energi. NL Ethereal."
+  },
+  "Warcry": {
+    "NAME": "Seruan Perang",
+    "DESCRIPTION": "Ambil !M! kartu. NL Letakkan sebuah kartu dari tangan ke atas dek ambil. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Ambil !M! kartu. NL Letakkan sebuah kartu dari tangan ke atas dek ambil. NL Hangus."
+  },
+  "Well Laid Plans": {
+    "NAME": "Rencana Rapi",
+    "DESCRIPTION": "Pada akhir giliran, Tahan hingga !M! kartu.",
+    "UPGRADE_DESCRIPTION": "Pada akhir giliran, Tahan hingga !M! kartu."
+  },
+  "Whirlwind": {
+    "NAME": "Topan",
+    "DESCRIPTION": "Beri !D! damage ke SEMUA musuh X kali."
+  },
+  "White Noise": {
+    "NAME": "Suara Putih",
+    "DESCRIPTION": "Tambah sebuah Kekuatan acak ke tangan. NL Harganya 0 giliran ini. NL Hangus."
+  },
+  "Wild Strike": {
+    "NAME": "Serang Buas",
+    "DESCRIPTION": "Beri !D! damage. NL Kocok sebuah Luka ke dek ambil."
+  },
+  "Wound": {
+    "NAME": "Luka",
+    "DESCRIPTION": "Statis."
+  },
+  "Wraith Form v2": {
+    "NAME": "Wujud Arwah",
+    "DESCRIPTION": "Dapatkan !M! Kegaiban. NL Pada akhir setiap giliran, kehilangan 1 Ketangkasan."
+  },
+  "Writhe": {
+    "NAME": "Sakit Hati",
+    "DESCRIPTION": "Statis. NL Permulaan."
+  },
+  "Zap": {
+    "NAME": "Zap",
+    "DESCRIPTION": "Salur !M! Petir."
+  },
+  "Core Surge": {
+    "NAME": "Gelora Inti",
+    "DESCRIPTION": "Beri !D! damage. NL Dapatkan !M! Artefak. NL Hangus."
+  },
+  "Compile Driver": {
+    "NAME": "Alat Penyusun",
+    "DESCRIPTION": "Beri !D! damage. NL Ambil !M! kartu setiap Orb unik yang kamu punya."
+  },
+  "RitualDagger": {
+    "NAME": "Pisau Ritual",
+    "DESCRIPTION": "Beri !D! damage. Jika ini membunuh sebuah musuh, naikkan secara permanen damage kartu ini !M!. NL Hangus."
+  },
+  "Pride": {
+    "NAME": "Harga Diri",
+    "DESCRIPTION": "Permulaan. Hangus. NL Pada akhir giliran, letakkan salinan kartu ini di atas dek ambil."
+  },
+  "PanicButton": {
+    "NAME": "Tombol Panik",
+    "DESCRIPTION": "Dapatkan !B! Blok. Kamu tidak bisa mendapatkan Blok dari kartu untuk !M! giliran selanjutnya. NL Hangus."
+  },
+  "HandOfGreed": {
+    "NAME": "Tangan Rakus",
+    "DESCRIPTION": "Beri !D! damage. NL Jika ini membunuh sebuah musuh non-minion, dapatkan !M! Emas."
+  },
+  "Violence": {
+    "NAME": "Kekejaman",
+    "DESCRIPTION": "Letakkan !M! kartu Serangan acak dari dek ambil ke tangan. NL Hangus."
+  },
+  "Impatience": {
+    "NAME": "Ketidaksabaran",
+    "DESCRIPTION": "Jika kamu tidak punya kartu Serangan di tangan, ambil !M! kartu."
+  },
+  "Forethought": {
+    "NAME": "Perencanaan",
+    "DESCRIPTION": "Letakkan sebuah kartu dari tangan ke dasar dek ambil. NL Harganya 0 hingga dimainkan.",
+    "UPGRADE_DESCRIPTION": "Letakkan berapapun kartu dari tangan ke dasar dek ambil. Harganya 0 hingga dimainkan."
+  },
+  "Discovery": {
+    "NAME": "Penemuan",
+    "DESCRIPTION": "Pilih 1 dari 3 kartu acak untuk ditambah ke tangan. Harganya 0 giliran ini. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Pilih 1 dari 3 kartu acak untuk ditambah ke tangan. Harganya 0 giliran ini."
+  },
+  "SpiritShield": {
+    "NAME": "Spirit Shield",
+    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gain !B! Block.)"
+    ]
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "Exhaust. NL At the start of your turn, draw 1 card. NL Retains."
+  },
+  "Wrath": {
+    "NAME": "Wrath",
+    "DESCRIPTION": "Deal and receive double attack damage."
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
+  },
+  "Tantrum": {
+    "NAME": "Tantrum",
+    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot leave Wrath for the remainder of the turn."
+  },
+  "Adaptation": {
+    "NAME": "Adaptation",
+    "DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Stances, draw !M! card."
+  },
+  "Causality": {
+    "NAME": "Causality",
+    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw cards until your hand is full. NL Retains. NL Exhaust."
+  },
+  "Devotion": {
+    "NAME": "Devotion",
+    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
+  },
+  "EmptyFist": {
+    "NAME": "Empty Fist",
+    "DESCRIPTION": "Deal !D! damage. NL Exit your Stance."
+  },
+  "Wisdom": {
+    "NAME": "Wisdom",
+    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+  },
+  "FlowState": {
+    "NAME": "Flow State",
+    "DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
+  },
+  "Swivel": {
+    "NAME": "Swivel",
+    "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
+  },
+  "Wish": {
+    "NAME": "Wish",
+    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times and exhaust it. NL Exhaust."
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED Fury Aura",
+    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+  },
+  "DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, add !M! *Miracles to your hand and Exhaust."
+  },
+  "ThroughViolence": {
+    "NAME": "Through Violence",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+  },
+  "Metaphysics": {
+    "NAME": "Metaphysics",
+    "DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Exhaust."
+  },
+  "Clarity": {
+    "NAME": "Clarity",
+    "DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the other.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the rest."
+  },
+  "WreathOfFlame": {
+    "NAME": "Wreath of Flame",
+    "DESCRIPTION": "Your next Attack deals !M! additional damage."
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED Flicker",
+    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+  },
+  "Alpha": {
+    "NAME": "Alpha",
+    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Exhaust."
+  },
+  "FollowUp": {
+    "NAME": "Follow-Up",
+    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, gain [W]."
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTION": "Gain 1 Intangible and end your turn. NL At the start of your next turn, deal !D! damage. Exhaust."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+  },
+  "Wallop": {
+    "NAME": "Wallop",
+    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
+  },
+  "Consecrate": {
+    "NAME": "Consecrate",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "Conclude": {
+    "NAME": "Conclude",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL End your turn."
+  },
+  "MasterReality": {
+    "NAME": "Master Reality",
+    "DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card to your hand."
+  },
+  "CleanseEvil": {
+    "NAME": "Cleanse Evil",
+    "DESCRIPTION": "Add X *Smites to your hand.",
+    "UPGRADE_DESCRIPTION": "Add X Upgraded *Smites to your hand."
+  },
+  "WindmillStrike": {
+    "NAME": "Windmill Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M!. NL Retains."
+  },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+  },
+  "LessonLearned": {
+    "NAME": "Lesson Learned",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+  },
+  "Calm": {
+    "NAME": "Calm",
+    "DESCRIPTION": "Upon exiting Calm, gain [W] [W]."
+  },
+  "ThirdEye": {
+    "NAME": "Third Eye",
+    "DESCRIPTION": "Gain !B! Block. NL Scry !M!."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survey",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+  },
+  "FlyingSleeves": {
+    "NAME": "Flying Sleeves",
+    "DESCRIPTION": "Deal !D! damage twice. NL Retains."
+  },
+  "Wireheading": {
+    "NAME": "Wireheading",
+    "DESCRIPTION": "At the end of your turn, Scry !M!.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the end of your turn, Scry !M!."
+  },
+  "Sanctity": {
+    "NAME": "Sanctity",
+    "DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! card."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+  },
+  "Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTION": "Whenever you attempt to switch Stances to your current Stance, gain [B]."
+  },
+  "Beta": {
+    "NAME": "Beta",
+    "DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Exhaust."
+  },
+  "FearNoEvil": {
+    "NAME": "Fear No Evil",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to Attack, enter Calm."
+  },
+  "Perseverance": {
+    "NAME": "Perseverance",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M!. NL Retains."
+  },
+  "Ragnarok": {
+    "NAME": "Ragnarok",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Awakened Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Blessed",
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
+  },
+  "Eruption": {
+    "NAME": "Eruption",
+    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+  },
+  "LetFateDecide": {
+    "NAME": "DEPRECATED Let Fate Decide",
+    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
+  },
+  "CutThroughFate": {
+    "NAME": "Cut Through Fate",
+    "DESCRIPTION": "Deal !D! damage. NL Scry !M!. NL Draw 1 card."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Wave of the Hand",
+    "DESCRIPTION": "Calm: Apply !M! Weak. NL Wrath: Apply !M! Vulnerable."
+  },
+  "Vigilance": {
+    "NAME": "Vigilance",
+    "DESCRIPTION": "Enter Calm. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Enter Calm. NL Draw !M! cards."
+  },
+  "PathToVictory": {
+    "NAME": "Path to Victory",
+    "DESCRIPTION": "Draw a card and reduce its cost to 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw a card and reduce its cost to 0 this turn."
+  },
+  "Evaluate": {
+    "NAME": "Evaluate",
+    "DESCRIPTION": "Gain !B! Block. NL Shuffle 1 *Insight into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle 1 Upgraded *Insight into your draw pile."
+  },
+  "Establishment": {
+    "NAME": "Establishment",
+    "DESCRIPTION": "Whenever a card is Retained, lower its cost by !M!.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, lower its cost by !M!."
+  },
+  "Collect": {
+    "NAME": "Collect",
+    "DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+  },
+  "Experienced": {
+    "NAME": "DEPRECATED Experienced",
+    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+  },
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Perfected Form",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+  },
+  "JustLucky": {
+    "NAME": "Just Lucky",
+    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+  },
+  "Peace": {
+    "NAME": "Peace",
+    "DESCRIPTION": "ALL enemies lose !M! Strength this turn. NL Retains. NL Exhaust."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Restraining Palm",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "Protect": {
+    "NAME": "Protect",
+    "DESCRIPTION": "Gain !B! Block. NL Retains."
+  },
+  "Worship": {
+    "NAME": "Worship",
+    "DESCRIPTION": "Gain !M! Mantra.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Mantra."
+  },
+  "EmptyMind": {
+    "NAME": "Empty Mind",
+    "DESCRIPTION": "Exit your Stance. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Exit your Stance. NL Draw !M! cards."
+  },
+  "Miracle": {
+    "NAME": "Miracle",
+    "DESCRIPTION": "Gain [W]. NL Retains. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain [W] [W]. NL Retains. NL Exhaust."
+  },
+  "DevaForm": {
+    "NAME": "Deva Form",
+    "DESCRIPTION": "Gain !M! Plated Armor.",
+    "UPGRADE_DESCRIPTION": "At the start of turn, gain [W] and increase this gain by !M!."
+  },
+  "TalkToTheHand": {
+    "NAME": "Talk to the Hand",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever this enemy takes damage, gain !M! Block. NL Exhaust."
+  },
+  "Strike_P": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Meditate": {
+    "NAME": "Meditate",
+    "DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm.",
+    "UPGRADE_DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm."
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTION": "Whenever you play a card, Upgrade it for the rest of combat.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, Upgrade it for the rest of combat."
+  },
+  "DeceiveReality": {
+    "NAME": "Deceive Reality",
+    "DESCRIPTION": "Gain !B! Block. NL Choose NL *Safety or *Wisdom. NL Add the chosen card to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Choose Upgraded NL *Safety or *Wisdom. NL Add the chosen card to your hand."
+  },
+  "RetreatingHand": {
+    "NAME": "DEPRECATED Retreating Hand",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
+  },
+  "Halt": {
+    "NAME": "Halt",
+    "DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+  },
+  "CurseOfTheBell": {
+    "NAME": "Curse of the Bell",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+  },
+  "Brilliance": {
+    "NAME": "Brilliance",
+    "DESCRIPTION": "Gain [W] for each turn this card is Retained. NL Retains. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Retained !M! turns.)",
+      " NL (Entered !M! Stances.)"
+    ]
+  },
+  "ClearTheMind": {
+    "NAME": "Clear the Mind",
+    "DESCRIPTION": "Enter Calm. NL Exhaust."
+  },
+  "Safety": {
+    "NAME": "Safety",
+    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+  },
+  "Scrawl": {
+    "NAME": "Scrawl",
+    "DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn."
+  },
+  "Prostrate": {
+    "NAME": "Prostrate",
+    "DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile."
+  },
+  "Pray": {
+    "NAME": "Pray",
+    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Draw 1 card. NL Retains. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
+  },
+  "ForeignInfluence": {
+    "NAME": "Foreign Influence",
+    "DESCRIPTION": "Choose 1 of 3 Attacks to add to your hand. These cards can be of any color. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks to add to your hand. These cards can be of any color. Exhaust."
+  },
+  "SignatureMove": {
+    "NAME": "Signature Move",
+    "DESCRIPTION": "Can only be played if this is your only Attack. Deal !D! damage."
+  },
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sublime Slice",
+    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
+  },
+  "ReachHeaven": {
+    "NAME": "Reach Heaven",
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an Upgraded *Through *Violence into your draw pile."
+  },
+  "Insight": {
+    "NAME": "Insight",
+    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTION": "The first card you draw each turn has its cost reduced by !M! for the turn.",
+    "UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
+  },
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Retains."
+  },
+  "BowlingBash": {
+    "NAME": "Bowling Bash",
+    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+  },
+  "Truth": {
+    "NAME": "Truth",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card. NL Retains. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Retains. NL Exhaust."
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Stance."
+  },
+  "Smite": {
+    "NAME": "Smite",
+    "DESCRIPTION": "Deal !D! damage. NL Retains. NL Exhaust."
+  },
+  "Omniscience": {
+    "NAME": "Omniscience",
+    "DESCRIPTION": "Scry your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Scry your draw pile."
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "At the start of your turn deal !M! damage to ALL enemies."
+  },
+  "Serenity": {
+    "NAME": "Serenity",
+    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+  },
+  "Judgement": {
+    "NAME": "Judgement",
+    "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
+  },
+  "MentalFortress": {
+    "NAME": "Mental Fortress",
+    "DESCRIPTION": "Whenever you switch Stances, gain !M! Block."
+  },
+  "EmptyBody": {
+    "NAME": "Empty Body",
+    "DESCRIPTION": "Gain !B! Block. NL Exit your Stance."
+  },
+  "Crescendo": {
+    "NAME": "Crescendo",
+    "DESCRIPTION": "Enter Wrath. NL Retains. NL Exhaust."
+  },
+  "SandsOfTime": {
+    "NAME": "Sands of Time",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1. NL Retains."
+  },
+  "Blasphemy": {
+    "NAME": "Blasphemy",
+    "DESCRIPTION": "Enter Divinity. NL Die next turn.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+  },
+  "Transcendence": {
+    "NAME": "Transcendence",
+    "DESCRIPTION": "Upgrade all cards that Retain in your hand."
+  },
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
+  },
+  "Unraveling": {
+    "NAME": "Unraveling",
+    "DESCRIPTION": "Play all of the cards in your hand from left to right. Targets are chosen randomly. NL Exhaust."
+  },
+  "Weave": {
+    "NAME": "Weave",
+    "DESCRIPTION": "Deal !D! damage. NL Add this card to your hand when it would be discarded from your draw pile."
+  },
+  "CrushJoints": {
+    "NAME": "Crush Joints",
+    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was a Skill, apply !M! Vulnerable."
+  },
+  "Vengeance": {
+    "NAME": "Vengeance",
+    "DESCRIPTION": "If your HP is less than it was last turn, enter Wrath."
+  },
+  "CarveReality": {
+    "NAME": "Carve Reality",
+    "DESCRIPTION": "Deal !D! damage. NL Choose NL *Smite or *Truth. NL Add the chosen card to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Choose Upgraded NL *Smite or *Truth. NL Add the chosen card to your hand."
+  },
+  "Defend_P": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+  },
+  "Thwack": {
+    "NAME": "DEPRECATED Thwack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Fasting": {
+    "NAME": "Fasting",
+    "DESCRIPTION": "Gain !M! Artifact."
+  },
+  "Swipe": {
+    "NAME": "DEPRECATED Swipe",
+    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+  },
+  "InnerPeace": {
+    "NAME": "Inner Peace",
+    "DESCRIPTION": "Enter Calm. NL End your turn."
+  },
+  "StepAndStrike": {
+    "NAME": "Step and Strike",
+    "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediction",
+    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+  },
+  "Flow": {
+    "NAME": "DEPRECATED Flow",
+    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Flame Mastery",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Flurry Of Blows",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL On Stance change, returns from the Exhaust Pile to your Hand. Exhaust."
+  },
+  "SashWhip": {
+    "NAME": "Sash Whip",
+    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, apply !M! Weak."
+  },
+  "WheelKick": {
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+  },
+  "Indignation": {
+    "NAME": "Indignation",
+    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Become Almighty",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "FameAndFortune": {
+    "NAME": "Fame and Fortune",
+    "DESCRIPTION": "Gain !M! Gold."
+  },
+  "LiveForever": {
+    "NAME": "Live Forever",
+    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+  },
+  "Expunger": {
+    "NAME": "Expunger",
+    "DESCRIPTION": "Deal !D! damage X times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage !M! times.",
+      "Deal !D! damage !M! time."
+    ]
+  },
+  "ConjureBlade": {
+    "NAME": "Conjure Blade",
+    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Expunger into your draw pile. NL Exhaust."
+  },
+  "WaveOfTheHand2": {
+    "NAME": "Wave of the Hand A",
+    "DESCRIPTION": "Whenever you gain change Stances this turn, apply !M! Weak and !M! Vulnerable to ALL enemies."
+  },
+  "Fasting2": {
+    "NAME": "Fasting B",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+  },
+  "Discipline": {
+    "NAME": "Discipilne",
+    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+  },
+  "Flick": {
+    "NAME": "Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+  },
+  "LikeWater": {
+    "NAME": "LikeWater",
+    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Karanlık",
+    "DESCRIPTION": [
+      "#yPasif: Turunun sonunda, Bu kürenin hasarını #b arttır",
+      ". NL #yUyandır: en az CP li düşmana #b hasar vur.",
+      " damage to the enemy with lowest HP."
+    ]
+  },
+  "Empty": {
+    "NAME": "Küre deliği",
+    "DESCRIPTION": [
+      "Küreler oluşturulup bu deliklere konulabilir."
+    ]
+  },
+  "Frost": {
+    "NAME": "Buz",
+    "DESCRIPTION": [
+      "#yPasif: Turun sonunda #b kazan",
+      " #yBlok. NL #yUyandır:  #b kazan",
+      " #yBlok."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Elektrik",
+    "DESCRIPTION": [
+      "#yPasif: Turun sonunda rastgele bir düşmana #b hasar vur.",
+      " . NL #yUyandır: Rastgele bir düşmana #b hasar vur.",
+      " rastgele bir düşmana #b hasar vur."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plazma",
+    "DESCRIPTION": [
+      "#yPasif: Turunun başlangıcında, [B] kazan . NL #yUyandır:  #b kazan",
+      " [B] . NL Plazma #yOdak tan etkilenmez."
+    ]
+  }
+}
